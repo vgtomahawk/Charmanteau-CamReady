@@ -1,0 +1,120 @@
+Original Word:youthanasia
+Output Word:youthanasi
+End of Example--------------------------------------
+Original Word:illiana
+Output Word:illin
+End of Example--------------------------------------
+Original Word:groupon
+Output Word:groon
+End of Example--------------------------------------
+Original Word:singlish
+Output Word:singlish
+End of Example--------------------------------------
+Original Word:wenglish
+Output Word:wenglish
+End of Example--------------------------------------
+Original Word:linner
+Output Word:lunter
+End of Example--------------------------------------
+Original Word:florala
+Output Word:florabama
+End of Example--------------------------------------
+Original Word:reaganomics
+Output Word:reagonomics
+End of Example--------------------------------------
+Original Word:escalator
+Output Word:escalator
+End of Example--------------------------------------
+Original Word:ninjelephant
+Output Word:ninjant
+End of Example--------------------------------------
+Original Word:mornoon
+Output Word:mornon
+End of Example--------------------------------------
+Original Word:modem
+Output Word:modemator
+End of Example--------------------------------------
+Original Word:animatronics
+Output Word:animanics
+End of Example--------------------------------------
+Original Word:banoffee
+Output Word:banatfe
+End of Example--------------------------------------
+Original Word:blaxploitation
+Output Word:blox
+End of Example--------------------------------------
+Original Word:wiktionary
+Output Word:wikionary
+End of Example--------------------------------------
+Original Word:webisode
+Output Word:webisode
+End of Example--------------------------------------
+Original Word:sexplosion
+Output Word:sexplosion
+End of Example--------------------------------------
+Original Word:crunk
+Output Word:crunk
+End of Example--------------------------------------
+Original Word:manglish
+Output Word:maylish
+End of Example--------------------------------------
+Original Word:bootylicious
+Output Word:bootelicious
+End of Example--------------------------------------
+Original Word:boxster
+Output Word:boxerter
+End of Example--------------------------------------
+Original Word:prosumer
+Output Word:pronsumer
+End of Example--------------------------------------
+Original Word:caninja
+Output Word:caninj
+End of Example--------------------------------------
+Original Word:travelocity
+Output Word:travocity
+End of Example--------------------------------------
+Original Word:flavorite
+Output Word:flovorit
+End of Example--------------------------------------
+Original Word:gaysian
+Output Word:gaysia
+End of Example--------------------------------------
+Original Word:slanguage
+Output Word:slanguage
+End of Example--------------------------------------
+Original Word:blaccent
+Output Word:blackent
+End of Example--------------------------------------
+Original Word:neither
+Output Word:nother
+End of Example--------------------------------------
+Original Word:squircle
+Output Word:squarcle
+End of Example--------------------------------------
+Original Word:cremains
+Output Word:cremain
+End of Example--------------------------------------
+Original Word:fraudience
+Output Word:fradience
+End of Example--------------------------------------
+Original Word:spanglish
+Output Word:spanglish
+End of Example--------------------------------------
+Original Word:streetball
+Output Word:straskal
+End of Example--------------------------------------
+Original Word:mattergy
+Output Word:mattergy
+End of Example--------------------------------------
+Original Word:mexicali
+Output Word:mexicali
+End of Example--------------------------------------
+Original Word:geep
+Output Word:goathee
+End of Example--------------------------------------
+Original Word:plytanium
+Output Word:plywanium
+End of Example--------------------------------------
+Original Word:ecoteur
+Output Word:ecoloteur
+End of Example--------------------------------------

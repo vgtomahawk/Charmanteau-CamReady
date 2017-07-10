@@ -1,0 +1,120 @@
+Original Word:silastic
+Output Word:silastic
+End of Example--------------------------------------
+Original Word:dramastic
+Output Word:dramattic
+End of Example--------------------------------------
+Original Word:nintendogs
+Output Word:nintend
+End of Example--------------------------------------
+Original Word:triticale
+Output Word:triticale
+End of Example--------------------------------------
+Original Word:woon
+Output Word:woon
+End of Example--------------------------------------
+Original Word:sporgery
+Output Word:spargery
+End of Example--------------------------------------
+Original Word:franglais
+Output Word:frang
+End of Example--------------------------------------
+Original Word:bullycide
+Output Word:bullicude
+End of Example--------------------------------------
+Original Word:billex
+Output Word:billex
+End of Example--------------------------------------
+Original Word:newrun
+Output Word:nererun
+End of Example--------------------------------------
+Original Word:instrumedley
+Output Word:instrudley
+End of Example--------------------------------------
+Original Word:mizzle
+Output Word:mizle
+End of Example--------------------------------------
+Original Word:screenager
+Output Word:screenage
+End of Example--------------------------------------
+Original Word:fedex
+Output Word:fex
+End of Example--------------------------------------
+Original Word:odditorium
+Output Word:odditoriu
+End of Example--------------------------------------
+Original Word:blasian
+Output Word:blackian
+End of Example--------------------------------------
+Original Word:soundscape
+Output Word:sounscape
+End of Example--------------------------------------
+Original Word:yugopotamia
+Output Word:yypotami
+End of Example--------------------------------------
+Original Word:shart
+Output Word:shitfart
+End of Example--------------------------------------
+Original Word:metrosexual
+Output Word:metrosual
+End of Example--------------------------------------
+Original Word:sexercise
+Output Word:sexercise
+End of Example--------------------------------------
+Original Word:masstige
+Output Word:mastige
+End of Example--------------------------------------
+Original Word:sexile
+Output Word:sexile
+End of Example--------------------------------------
+Original Word:pornograffiti
+Output Word:porit
+End of Example--------------------------------------
+Original Word:chigorette
+Output Word:chigorette
+End of Example--------------------------------------
+Original Word:transponder
+Output Word:transponde
+End of Example--------------------------------------
+Original Word:parkade
+Output Word:parke
+End of Example--------------------------------------
+Original Word:toonie
+Output Word:twooni
+End of Example--------------------------------------
+Original Word:arcology
+Output Word:architecology
+End of Example--------------------------------------
+Original Word:spamalot
+Output Word:spamot
+End of Example--------------------------------------
+Original Word:altadena
+Output Word:altalena
+End of Example--------------------------------------
+Original Word:yestergay
+Output Word:yesterd
+End of Example--------------------------------------
+Original Word:verizon
+Output Word:verizo
+End of Example--------------------------------------
+Original Word:comcastic
+Output Word:comattic
+End of Example--------------------------------------
+Original Word:backronym
+Output Word:backonym
+End of Example--------------------------------------
+Original Word:smark
+Output Word:smark
+End of Example--------------------------------------
+Original Word:ideanomics
+Output Word:ideacomics
+End of Example--------------------------------------
+Original Word:froogle
+Output Word:frogle
+End of Example--------------------------------------
+Original Word:nontroversy
+Output Word:nontroversy
+End of Example--------------------------------------
+Original Word:bleen
+Output Word:bluen
+End of Example--------------------------------------

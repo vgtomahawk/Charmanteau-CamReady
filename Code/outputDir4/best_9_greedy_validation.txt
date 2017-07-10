@@ -1,0 +1,120 @@
+Original Word:chillax
+Output Word:chilax
+End of Example--------------------------------------
+Original Word:bakerloo
+Output Word:bakerloo
+End of Example--------------------------------------
+Original Word:taglish
+Output Word:taglish
+End of Example--------------------------------------
+Original Word:ginormous
+Output Word:gigiganorous
+End of Example--------------------------------------
+Original Word:foon
+Output Word:foon
+End of Example--------------------------------------
+Original Word:californication
+Output Word:calornation
+End of Example--------------------------------------
+Original Word:danimals
+Output Word:danimal
+End of Example--------------------------------------
+Original Word:mog
+Output Word:mag
+End of Example--------------------------------------
+Original Word:zony
+Output Word:zebrany
+End of Example--------------------------------------
+Original Word:blipster
+Output Word:blacster
+End of Example--------------------------------------
+Original Word:fracket
+Output Word:fracket
+End of Example--------------------------------------
+Original Word:smelloscope
+Output Word:smelesco
+End of Example--------------------------------------
+Original Word:quebexican
+Output Word:quexican
+End of Example--------------------------------------
+Original Word:infortainment
+Output Word:informanmen
+End of Example--------------------------------------
+Original Word:mobisode
+Output Word:mobisod
+End of Example--------------------------------------
+Original Word:zeitghost
+Output Word:zeitst
+End of Example--------------------------------------
+Original Word:wikipedia
+Output Word:wikipedia
+End of Example--------------------------------------
+Original Word:strunk
+Output Word:stond
+End of Example--------------------------------------
+Original Word:cama
+Output Word:camlama
+End of Example--------------------------------------
+Original Word:joygasm
+Output Word:jorgas
+End of Example--------------------------------------
+Original Word:automagic
+Output Word:automagic
+End of Example--------------------------------------
+Original Word:carborundum
+Output Word:carbor
+End of Example--------------------------------------
+Original Word:moobs
+Output Word:moob
+End of Example--------------------------------------
+Original Word:fantabulous
+Output Word:fanbulous
+End of Example--------------------------------------
+Original Word:seussical
+Output Word:seussical
+End of Example--------------------------------------
+Original Word:mothic
+Output Word:mothic
+End of Example--------------------------------------
+Original Word:spectralert
+Output Word:spectraler
+End of Example--------------------------------------
+Original Word:fugly
+Output Word:fugly
+End of Example--------------------------------------
+Original Word:juneteenth
+Output Word:junenth
+End of Example--------------------------------------
+Original Word:sexploitation
+Output Word:sexploitation
+End of Example--------------------------------------
+Original Word:mimsy
+Output Word:misglimsy
+End of Example--------------------------------------
+Original Word:darkane
+Output Word:darcane
+End of Example--------------------------------------
+Original Word:scromlette
+Output Word:scrambete
+End of Example--------------------------------------
+Original Word:darwine
+Output Word:darwine
+End of Example--------------------------------------
+Original Word:homocaust
+Output Word:homoxocaust
+End of Example--------------------------------------
+Original Word:tofurkey
+Output Word:torkey
+End of Example--------------------------------------
+Original Word:mathlete
+Output Word:matlee
+End of Example--------------------------------------
+Original Word:zorse
+Output Word:zebrar
+End of Example--------------------------------------
+Original Word:bedaffle
+Output Word:beazzle
+End of Example--------------------------------------
+Original Word:opinuendo
+Output Word:opinuen
+End of Example--------------------------------------

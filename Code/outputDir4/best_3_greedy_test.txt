@@ -1,0 +1,120 @@
+Original Word:cryptex
+Output Word:croptolox
+End of Example--------------------------------------
+Original Word:chinglish
+Output Word:chinglish
+End of Example--------------------------------------
+Original Word:electrocution
+Output Word:elexion
+End of Example--------------------------------------
+Original Word:narcoterrorism
+Output Word:norroris
+End of Example--------------------------------------
+Original Word:swaption
+Output Word:swoptio
+End of Example--------------------------------------
+Original Word:edutainment
+Output Word:edertainme
+End of Example--------------------------------------
+Original Word:glenbrook
+Output Word:glenvook
+End of Example--------------------------------------
+Original Word:hunglish
+Output Word:hunglish
+End of Example--------------------------------------
+Original Word:transistor
+Output Word:transistor
+End of Example--------------------------------------
+Original Word:phoneme
+Output Word:phonetiche
+End of Example--------------------------------------
+Original Word:joggling
+Output Word:joggliig
+End of Example--------------------------------------
+Original Word:frappuccino
+Output Word:frapcin
+End of Example--------------------------------------
+Original Word:podcast
+Output Word:poadcast
+End of Example--------------------------------------
+Original Word:troopergate
+Output Word:troopergat
+End of Example--------------------------------------
+Original Word:documercial
+Output Word:docercial
+End of Example--------------------------------------
+Original Word:advertecture
+Output Word:adverticture
+End of Example--------------------------------------
+Original Word:naco
+Output Word:nachoco
+End of Example--------------------------------------
+Original Word:avionics
+Output Word:aviatronics
+End of Example--------------------------------------
+Original Word:pastafarian
+Output Word:pastaria
+End of Example--------------------------------------
+Original Word:literotica
+Output Word:literotic
+End of Example--------------------------------------
+Original Word:guesstimate
+Output Word:guestimate
+End of Example--------------------------------------
+Original Word:czenglish
+Output Word:chenglish
+End of Example--------------------------------------
+Original Word:brangelina
+Output Word:brangiina
+End of Example--------------------------------------
+Original Word:fluidrive
+Output Word:flive
+End of Example--------------------------------------
+Original Word:schnoodle
+Output Word:schoodle
+End of Example--------------------------------------
+Original Word:beurgeois
+Output Word:beurgeois
+End of Example--------------------------------------
+Original Word:brogrammer
+Output Word:brosmer
+End of Example--------------------------------------
+Original Word:digerati
+Output Word:digiterat
+End of Example--------------------------------------
+Original Word:hackintosh
+Output Word:hacintosh
+End of Example--------------------------------------
+Original Word:intellicentre
+Output Word:intellentr
+End of Example--------------------------------------
+Original Word:jeopard
+Output Word:jagleopar
+End of Example--------------------------------------
+Original Word:pinterest
+Output Word:pinterss
+End of Example--------------------------------------
+Original Word:cameleopard
+Output Word:camar
+End of Example--------------------------------------
+Original Word:vitamer
+Output Word:vivome
+End of Example--------------------------------------
+Original Word:fluidram
+Output Word:fluum
+End of Example--------------------------------------
+Original Word:workaholic
+Output Word:workolic
+End of Example--------------------------------------
+Original Word:starchitect
+Output Word:starchitect
+End of Example--------------------------------------
+Original Word:manimal
+Output Word:manim
+End of Example--------------------------------------
+Original Word:smaze
+Output Word:smoze
+End of Example--------------------------------------
+Original Word:sexcapade
+Output Word:sexcapad
+End of Example--------------------------------------

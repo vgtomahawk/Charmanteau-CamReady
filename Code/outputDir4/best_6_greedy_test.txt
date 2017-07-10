@@ -1,0 +1,120 @@
+Original Word:beefalo
+Output Word:beeb
+End of Example--------------------------------------
+Original Word:staycation
+Output Word:staysation
+End of Example--------------------------------------
+Original Word:privoxy
+Output Word:proxpy
+End of Example--------------------------------------
+Original Word:tangelo
+Output Word:tangel
+End of Example--------------------------------------
+Original Word:caplet
+Output Word:caplet
+End of Example--------------------------------------
+Original Word:pictionary
+Output Word:pictuonar
+End of Example--------------------------------------
+Original Word:rubinomics
+Output Word:runomics
+End of Example--------------------------------------
+Original Word:mockumentary
+Output Word:mockument
+End of Example--------------------------------------
+Original Word:televangelist
+Output Word:telengelis
+End of Example--------------------------------------
+Original Word:banjitar
+Output Word:banguitar
+End of Example--------------------------------------
+Original Word:kollywood
+Output Word:kodkyw
+End of Example--------------------------------------
+Original Word:snark
+Output Word:snimark
+End of Example--------------------------------------
+Original Word:nastronaut
+Output Word:nastronaut
+End of Example--------------------------------------
+Original Word:prevacid
+Output Word:prentacid
+End of Example--------------------------------------
+Original Word:guyliner
+Output Word:guylel
+End of Example--------------------------------------
+Original Word:gaydar
+Output Word:gayd
+End of Example--------------------------------------
+Original Word:aricent
+Output Word:ariscent
+End of Example--------------------------------------
+Original Word:minja
+Output Word:minn
+End of Example--------------------------------------
+Original Word:cyberdelic
+Output Word:cycedelic
+End of Example--------------------------------------
+Original Word:grue
+Output Word:gleen
+End of Example--------------------------------------
+Original Word:humanure
+Output Word:humunure
+End of Example--------------------------------------
+Original Word:melodyssey
+Output Word:melyssey
+End of Example--------------------------------------
+Original Word:swenglish
+Output Word:swenglish
+End of Example--------------------------------------
+Original Word:eurabia
+Output Word:eurose
+End of Example--------------------------------------
+Original Word:forgirl
+Output Word:formerg
+End of Example--------------------------------------
+Original Word:crooklyn
+Output Word:crookly
+End of Example--------------------------------------
+Original Word:galumph
+Output Word:gallopr
+End of Example--------------------------------------
+Original Word:scanlation
+Output Word:scansl
+End of Example--------------------------------------
+Original Word:exercycle
+Output Word:exercycle
+End of Example--------------------------------------
+Original Word:dilemmachine
+Output Word:dine
+End of Example--------------------------------------
+Original Word:zonkey
+Output Word:zonkey
+End of Example--------------------------------------
+Original Word:nicorette
+Output Word:nicote
+End of Example--------------------------------------
+Original Word:kidult
+Output Word:kudt
+End of Example--------------------------------------
+Original Word:gypish
+Output Word:gypysh
+End of Example--------------------------------------
+Original Word:clopen
+Output Word:clen
+End of Example--------------------------------------
+Original Word:bankster
+Output Word:banglr
+End of Example--------------------------------------
+Original Word:lupper
+Output Word:luncper
+End of Example--------------------------------------
+Original Word:mozilla
+Output Word:mosza
+End of Example--------------------------------------
+Original Word:flexicurity
+Output Word:flexity
+End of Example--------------------------------------
+Original Word:cocacolonization
+Output Word:coconation
+End of Example--------------------------------------

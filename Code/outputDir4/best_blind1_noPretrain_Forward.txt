@@ -1,0 +1,4892 @@
+shopping marathon shon
+Original Word:shopathon
+Output Word:shopparathon
+End of Example--------------------------------------
+fashion fascism fashism
+Original Word:fashism
+Output Word:fasscism
+End of Example--------------------------------------
+brick blackberry brickberry
+Original Word:brick
+Output Word:brickberry
+End of Example--------------------------------------
+wiki etiquette wiquette
+Original Word:wikiquette
+Output Word:wikette
+End of Example--------------------------------------
+alternative whore altere
+Original Word:alternawhore
+Output Word:alternore
+End of Example--------------------------------------
+compressing expanding comprexpanding
+Original Word:companding
+Output Word:companding
+End of Example--------------------------------------
+clown president clownt
+Original Word:clownsident
+Output Word:clowident
+End of Example--------------------------------------
+enlightenment culture enlture
+Original Word:enculturement
+Output Word:enculture
+End of Example--------------------------------------
+car hijack cack
+Original Word:carjack
+Output Word:carijack
+End of Example--------------------------------------
+dialectical materialism dialism
+Original Word:diamat
+Output Word:dialectialism
+End of Example--------------------------------------
+gob blob goblob
+Original Word:glob
+Output Word:glob
+End of Example--------------------------------------
+tinder disaster tindisaster
+Original Word:tindisaster
+Output Word:tindaster
+End of Example--------------------------------------
+data broadcasting dating
+Original Word:datacasting
+Output Word:dadcasting
+End of Example--------------------------------------
+back acronym bacronym
+Original Word:backronym
+Output Word:backronym
+End of Example--------------------------------------
+spare change sspare
+Original Word:spange
+Output Word:sphange
+End of Example--------------------------------------
+hibernation dating hibernating
+Original Word:hiberdating
+Output Word:hibernating
+End of Example--------------------------------------
+academic diarrhea acadiarrhea
+Original Word:academirrhea
+Output Word:academichea
+End of Example--------------------------------------
+cameron sarah camerah
+Original Word:camerah
+Output Word:camerah
+End of Example--------------------------------------
+vague facebooking vacebooking
+Original Word:vaguebooking
+Output Word:vaguebooking
+End of Example--------------------------------------
+space time spatime
+Original Word:spime
+Output Word:spacime
+End of Example--------------------------------------
+after masturbating afterbating
+Original Word:afterbating
+Output Word:afterbating
+End of Example--------------------------------------
+futon catatonic futonic
+Original Word:futatonic
+Output Word:futonic
+End of Example--------------------------------------
+britain regret bregret
+Original Word:bregret
+Output Word:britret
+End of Example--------------------------------------
+social entertainer sentertainer
+Original Word:socialtainer
+Output Word:soctainer
+End of Example--------------------------------------
+globe blob blobe
+Original Word:glob
+Output Word:glob
+End of Example--------------------------------------
+desktop notebook desktebook
+Original Word:desknote
+Output Word:deskook
+End of Example--------------------------------------
+retard aardvark retardvark
+Original Word:taardvark
+Output Word:retardark
+End of Example--------------------------------------
+chopsticks fork chork
+Original Word:chork
+Output Word:chopstick
+End of Example--------------------------------------
+buffet cafeteria buffeteria
+Original Word:buffeteria
+Output Word:buffeteria
+End of Example--------------------------------------
+happy harmonius hharmonius
+Original Word:happymonius
+Output Word:happymonius
+End of Example--------------------------------------
+flexible vegetarian flegetarian
+Original Word:flexitarian
+Output Word:flexetarian
+End of Example--------------------------------------
+laughter orgasm lasm
+Original Word:laughgasm
+Output Word:laughasm
+End of Example--------------------------------------
+orgasm tron oron
+Original Word:orgasmatron
+Output Word:orgasmon
+End of Example--------------------------------------
+masochistic sadist masadist
+Original Word:masosadist
+Output Word:madist
+End of Example--------------------------------------
+frequency recency frecency
+Original Word:frecency
+Output Word:frency
+End of Example--------------------------------------
+tendering enterpreneur tenterpreneur
+Original Word:tenderpreneur
+Output Word:tenpreneur
+End of Example--------------------------------------
+fall halloween falloween
+Original Word:falloween
+Output Word:falloween
+End of Example--------------------------------------
+frisbee golf frolf
+Original Word:frolf
+Output Word:frisgolf
+End of Example--------------------------------------
+basketball baseball ball
+Original Word:baseketball
+Output Word:basball
+End of Example--------------------------------------
+engineer nerd enginerd
+Original Word:enginerd
+Output Word:enginerd
+End of Example--------------------------------------
+hitler hillary hitlery
+Original Word:hitlery
+Output Word:hitlary
+End of Example--------------------------------------
+trump economics trumics
+Original Word:trumponomics
+Output Word:trumpomics
+End of Example--------------------------------------
+flirtation relationship flirtationship
+Original Word:flirtationship
+Output Word:flirtatiop
+End of Example--------------------------------------
+permanent nipple permanipple
+Original Word:permanipple
+Output Word:permle
+End of Example--------------------------------------
+analog digital analogital
+Original Word:anadig
+Output Word:analital
+End of Example--------------------------------------
+black latina blatina
+Original Word:blatina
+Output Word:blatina
+End of Example--------------------------------------
+nationals attitude natitude
+Original Word:natitude
+Output Word:nattitude
+End of Example--------------------------------------
+class asshole classhole
+Original Word:classhole
+Output Word:classhole
+End of Example--------------------------------------
+phone snubbing phonubbing
+Original Word:phubbing
+Output Word:phonebing
+End of Example--------------------------------------
+international police internatiolice
+Original Word:interpol
+Output Word:internalice
+End of Example--------------------------------------
+next yesterday nexterday
+Original Word:nexterday
+Output Word:nesterday
+End of Example--------------------------------------
+korpela maki korpelaki
+Original Word:kormak
+Output Word:korpeli
+End of Example--------------------------------------
+cryptogram analysis cryptanalysis
+Original Word:cryptanalysis
+Output Word:cryptis
+End of Example--------------------------------------
+plum apricot pricot
+Original Word:pluot
+Output Word:plumricot
+End of Example--------------------------------------
+lobster monstrosity lobstrosity
+Original Word:lobstrosity
+Output Word:lobstrosity
+End of Example--------------------------------------
+constructed language clanguage
+Original Word:conlang
+Output Word:conguage
+End of Example--------------------------------------
+broccoli cauliflower brocauliflower
+Original Word:broccoflower
+Output Word:brocclower
+End of Example--------------------------------------
+global english glish
+Original Word:globish
+Output Word:glish
+End of Example--------------------------------------
+puke extravaganza puextravaganza
+Original Word:pukestravaganza
+Output Word:pukeanza
+End of Example--------------------------------------
+calf ankle cankle
+Original Word:canckle
+Output Word:calle
+End of Example--------------------------------------
+butt munch bunch
+Original Word:buttmunch
+Output Word:buttunch
+End of Example--------------------------------------
+cosmetic collision cosmeticollision
+Original Word:cosmolission
+Output Word:coslision
+End of Example--------------------------------------
+computer potato compotato
+Original Word:computato
+Output Word:computato
+End of Example--------------------------------------
+beverage avalanche bavalanche
+Original Word:bevalanche
+Output Word:bevanche
+End of Example--------------------------------------
+intoxicate text intext
+Original Word:intexticate
+Output Word:intoxicatext
+End of Example--------------------------------------
+excited dimmer excitedimmer
+Original Word:excimer
+Output Word:excimmer
+End of Example--------------------------------------
+phone amnesia phonesia
+Original Word:phonesia
+Output Word:phonesia
+End of Example--------------------------------------
+camera phone camphone
+Original Word:camphone
+Output Word:camerone
+End of Example--------------------------------------
+gay hibernation gation
+Original Word:gaybernation
+Output Word:gaybernation
+End of Example--------------------------------------
+elevator fucker ucker
+Original Word:elefucker
+Output Word:elevacker
+End of Example--------------------------------------
+bored ordinary bordinary
+Original Word:bordinary
+Output Word:bordinary
+End of Example--------------------------------------
+prototype product pproduct
+Original Word:protoduct
+Output Word:protuct
+End of Example--------------------------------------
+ballintine company balline
+Original Word:ballico
+Output Word:ballicompany
+End of Example--------------------------------------
+information graphic inforaphic
+Original Word:infographic
+Output Word:informaphic
+End of Example--------------------------------------
+platform publisher plisher
+Original Word:platisher
+Output Word:plisher
+End of Example--------------------------------------
+add anxiety ety
+Original Word:addxiety
+Output Word:addxiety
+End of Example--------------------------------------
+gay baby gaby
+Original Word:gayby
+Output Word:gaby
+End of Example--------------------------------------
+partner alimony palimony
+Original Word:palimony
+Output Word:partimony
+End of Example--------------------------------------
+smash bang smang
+Original Word:smang
+Output Word:smang
+End of Example--------------------------------------
+documentary drama documentarama
+Original Word:docudrama
+Output Word:documentaryma
+End of Example--------------------------------------
+conversation destroyer converstroyer
+Original Word:converstroyer
+Output Word:convestroyer
+End of Example--------------------------------------
+neurologically typical neurologicallypical
+Original Word:neurotypical
+Output Word:neurolical
+End of Example--------------------------------------
+web magazine wagazine
+Original Word:webzine
+Output Word:webazine
+End of Example--------------------------------------
+precise exactly prexactly
+Original Word:prezactly
+Output Word:prexactly
+End of Example--------------------------------------
+human robot hhuman
+Original Word:hubot
+Output Word:humobot
+End of Example--------------------------------------
+feminine homicide femicide
+Original Word:feminicide
+Output Word:femicide
+End of Example--------------------------------------
+describe develop describevelop
+Original Word:deskellop
+Output Word:describop
+End of Example--------------------------------------
+fraternity fantastic fraterntastic
+Original Word:fratastic
+Output Word:frantastic
+End of Example--------------------------------------
+debra ian debran
+Original Word:debian
+Output Word:debran
+End of Example--------------------------------------
+masturbate dating masturbating
+Original Word:masturdating
+Output Word:masturbing
+End of Example--------------------------------------
+emergent turd emerd
+Original Word:emergenturd
+Output Word:emergerd
+End of Example--------------------------------------
+electrocution executioner electrocutioner
+Original Word:electrocutioner
+Output Word:electroner
+End of Example--------------------------------------
+man vacation mation
+Original Word:mancation
+Output Word:manation
+End of Example--------------------------------------
+thespian lesbian thesbian
+Original Word:thesbian
+Output Word:thesbian
+End of Example--------------------------------------
+polish english penglish
+Original Word:ponglish
+Output Word:ponglish
+End of Example--------------------------------------
+chip hipster chipster
+Original Word:chipster
+Output Word:chipster
+End of Example--------------------------------------
+cyclohexane excellent cyclohexcellent
+Original Word:cyclohexellent
+Output Word:cyclexcellent
+End of Example--------------------------------------
+goof google gogle
+Original Word:goofle
+Output Word:ggoogle
+End of Example--------------------------------------
+video idiot vidiot
+Original Word:vidiot
+Output Word:videot
+End of Example--------------------------------------
+spin cinderella spinderella
+Original Word:spinderella
+Output Word:spinderella
+End of Example--------------------------------------
+system operator soperator
+Original Word:sysop
+Output Word:sperator
+End of Example--------------------------------------
+queer weirdo queerdo
+Original Word:queerdo
+Output Word:queerrdo
+End of Example--------------------------------------
+keg runoff kunoff
+Original Word:kegoff
+Output Word:kegoff
+End of Example--------------------------------------
+personal zine persone
+Original Word:perzine
+Output Word:perszine
+End of Example--------------------------------------
+frat atmosphere fratmosphere
+Original Word:fratmosphere
+Output Word:fratere
+End of Example--------------------------------------
+pad addict paddict
+Original Word:paddict
+Output Word:paddict
+End of Example--------------------------------------
+exaggeration addict exaddict
+Original Word:exaggeraddict
+Output Word:exagdict
+End of Example--------------------------------------
+whey amen wamen
+Original Word:wheymen
+Output Word:wheyn
+End of Example--------------------------------------
+irrigation oregon irrigon
+Original Word:irrigon
+Output Word:irregon
+End of Example--------------------------------------
+valley siletz valletz
+Original Word:valsetz
+Output Word:valletz
+End of Example--------------------------------------
+rural urban rururban
+Original Word:rurban
+Output Word:rurban
+End of Example--------------------------------------
+elizabeth barbossabeth elizabarbossabeth
+Original Word:barbossa
+Output Word:elibeth
+End of Example--------------------------------------
+intelligent dating ing
+Original Word:intellidating
+Output Word:intellating
+End of Example--------------------------------------
+suspicion knowledge suspicionowledge
+Original Word:suspowledge
+Output Word:suspicedge
+End of Example--------------------------------------
+man sandals mandals
+Original Word:mandals
+Output Word:mandals
+End of Example--------------------------------------
+meander neanderthal meanderthal
+Original Word:meanderthal
+Output Word:meanderthal
+End of Example--------------------------------------
+jew jpeg jeg
+Original Word:jewpeg
+Output Word:jeeg
+End of Example--------------------------------------
+multiple cartridge multridge
+Original Word:multicart
+Output Word:multridge
+End of Example--------------------------------------
+tom katie tie
+Original Word:tomkat
+Output Word:tomkatie
+End of Example--------------------------------------
+menopause paws menopaws
+Original Word:menopaws
+Output Word:menopaws
+End of Example--------------------------------------
+montgomery county monty
+Original Word:moco
+Output Word:monty
+End of Example--------------------------------------
+mexican cunt mexicant
+Original Word:mexicunt
+Output Word:mexicunt
+End of Example--------------------------------------
+cellulose diaphane celludiaphane
+Original Word:cellophane
+Output Word:cellane
+End of Example--------------------------------------
+vegetable homicide vegetabhomicide
+Original Word:vegicide
+Output Word:vegicide
+End of Example--------------------------------------
+hurricane canceled hurricanceled
+Original Word:hurricanceled
+Output Word:hurrinceled
+End of Example--------------------------------------
+sophisticated ratchet sophisticatchet
+Original Word:sophistiratchet
+Output Word:sophichet
+End of Example--------------------------------------
+online loneliness onliness
+Original Word:onlineness
+Output Word:oneliness
+End of Example--------------------------------------
+dank bankrupt dankrupt
+Original Word:dankrupt
+Output Word:dankrupt
+End of Example--------------------------------------
+kill illuminati killuminati
+Original Word:killuminati
+Output Word:killuminati
+End of Example--------------------------------------
+african democracy afracy
+Original Word:afrocracy
+Output Word:afemocracy
+End of Example--------------------------------------
+condom contemplate condomplate
+Original Word:condomplate
+Output Word:condemplate
+End of Example--------------------------------------
+academic bowl academbowl
+Original Word:acabowl
+Output Word:academicl
+End of Example--------------------------------------
+mutt mutation muttation
+Original Word:muttation
+Output Word:muttation
+End of Example--------------------------------------
+peasant television pelevision
+Original Word:peasantvision
+Output Word:pelevision
+End of Example--------------------------------------
+shank hippopotomas shipotomas
+Original Word:shankopotomas
+Output Word:shankpotomas
+End of Example--------------------------------------
+monday daze mondaze
+Original Word:mondaze
+Output Word:mondaze
+End of Example--------------------------------------
+desi lucille desille
+Original Word:desilu
+Output Word:descille
+End of Example--------------------------------------
+sleepy slaphappy slappy
+Original Word:sleppy
+Output Word:sleeppy
+End of Example--------------------------------------
+ass hashtag ashtag
+Original Word:asstag
+Output Word:asshtag
+End of Example--------------------------------------
+automatic magically automagically
+Original Word:automagically
+Output Word:automagically
+End of Example--------------------------------------
+warf coumarin warin
+Original Word:warfarin
+Output Word:warin
+End of Example--------------------------------------
+elephant facts elephacts
+Original Word:elephacts
+Output Word:elephacts
+End of Example--------------------------------------
+chunk lump chump
+Original Word:chump
+Output Word:chunklump
+End of Example--------------------------------------
+liar diary liary
+Original Word:liary
+Output Word:liary
+End of Example--------------------------------------
+aggravated annoyed aggrannoyed
+Original Word:aggranoyed
+Output Word:aggrannoyed
+End of Example--------------------------------------
+shark tornado sharnado
+Original Word:sharknado
+Output Word:sharkado
+End of Example--------------------------------------
+free vegan fregan
+Original Word:freegan
+Output Word:freegan
+End of Example--------------------------------------
+internet meeting ing
+Original Word:netmeet
+Output Word:interneeting
+End of Example--------------------------------------
+mob incest mincest
+Original Word:mobcest
+Output Word:mobcest
+End of Example--------------------------------------
+coloane taipa coa
+Original Word:cotai
+Output Word:colipa
+End of Example--------------------------------------
+fake ulcer fulcer
+Original Word:fulcer
+Output Word:fakelcer
+End of Example--------------------------------------
+finitely many finy
+Original Word:finimany
+Output Word:finany
+End of Example--------------------------------------
+wall volleyball walleyball
+Original Word:wallyball
+Output Word:walleyball
+End of Example--------------------------------------
+batman automobile bautomobile
+Original Word:batmobile
+Output Word:batmomobile
+End of Example--------------------------------------
+bisexual curious bisecurious
+Original Word:bicurious
+Output Word:bisurious
+End of Example--------------------------------------
+avalanche launch avalaunch
+Original Word:avalaunch
+Output Word:avalaunch
+End of Example--------------------------------------
+picture element pictelement
+Original Word:pixel
+Output Word:picturement
+End of Example--------------------------------------
+dejavu brew dejabrew
+Original Word:dejabrew
+Output Word:dejavuw
+End of Example--------------------------------------
+my ipod mipod
+Original Word:mypod
+Output Word:mypod
+End of Example--------------------------------------
+pulsating star pulstar
+Original Word:pulsar
+Output Word:pulstar
+End of Example--------------------------------------
+lipstick striptease liptease
+Original Word:liptease
+Output Word:liptease
+End of Example--------------------------------------
+satisfactory sufficing satisficing
+Original Word:satisficing
+Output Word:satisficing
+End of Example--------------------------------------
+alcohol pop alcop
+Original Word:alcopop
+Output Word:alop
+End of Example--------------------------------------
+london pakistan llon
+Original Word:londonistan
+Output Word:lonistan
+End of Example--------------------------------------
+beautiful delicious beautifulicious
+Original Word:beaulicious
+Output Word:beauticious
+End of Example--------------------------------------
+mini honeymoon mineymoon
+Original Word:minimoon
+Output Word:mineymoon
+End of Example--------------------------------------
+knowledge database knowledatabase
+Original Word:knowledgebase
+Output Word:knowabase
+End of Example--------------------------------------
+brilliant resilient brillient
+Original Word:bresilient
+Output Word:brillient
+End of Example--------------------------------------
+orgasm cyclotron oron
+Original Word:orgasmatron
+Output Word:orgasmotron
+End of Example--------------------------------------
+europe armageddon eurmageddon
+Original Word:eurogeddon
+Output Word:eurmageddon
+End of Example--------------------------------------
+postmodern sexual posexual
+Original Word:pomosexual
+Output Word:poxual
+End of Example--------------------------------------
+british nitpick britpick
+Original Word:britpick
+Output Word:britpick
+End of Example--------------------------------------
+mail maelstrom mailstrom
+Original Word:mailstrom
+Output Word:maimaelstrom
+End of Example--------------------------------------
+pumpkin engineer pumpkineer
+Original Word:pumpkineer
+Output Word:pumpkineer
+End of Example--------------------------------------
+macintosh trash mash
+Original Word:macintrash
+Output Word:mactrash
+End of Example--------------------------------------
+boy catastrophe batastrophe
+Original Word:boytastrophe
+Output Word:boyphe
+End of Example--------------------------------------
+winchester barkhamsted winchested
+Original Word:winsted
+Output Word:winkhamsted
+End of Example--------------------------------------
+sparrow elizabeth spelizabeth
+Original Word:sparrabeth
+Output Word:sparroweth
+End of Example--------------------------------------
+shirt sweater shirter
+Original Word:shweater
+Output Word:shirter
+End of Example--------------------------------------
+maria amigo mariamigo
+Original Word:marigo
+Output Word:mariago
+End of Example--------------------------------------
+tri bridge tridge
+Original Word:tridge
+Output Word:tridge
+End of Example--------------------------------------
+giant enormous gianormous
+Original Word:ginormous
+Output Word:ginormous
+End of Example--------------------------------------
+geek elated gelated
+Original Word:geekelated
+Output Word:geekated
+End of Example--------------------------------------
+scotch vodka scodka
+Original Word:scotchka
+Output Word:scodka
+End of Example--------------------------------------
+stupid bitch stupitch
+Original Word:stupitch
+Output Word:stupitch
+End of Example--------------------------------------
+sky peer sker
+Original Word:skype
+Output Word:skeer
+End of Example--------------------------------------
+chan mannerism channerism
+Original Word:chanerism
+Output Word:chanerism
+End of Example--------------------------------------
+stagnation inflation station
+Original Word:stagflation
+Output Word:stagation
+End of Example--------------------------------------
+ethyl alcohol ethalcohol
+Original Word:ethanol
+Output Word:ethol
+End of Example--------------------------------------
+brother bracelet brotheracelet
+Original Word:brocelet
+Output Word:brotelet
+End of Example--------------------------------------
+warp japanese warpanese
+Original Word:wapanese
+Output Word:warpanese
+End of Example--------------------------------------
+beer waterboarding beerding
+Original Word:beerboarding
+Output Word:beerboarding
+End of Example--------------------------------------
+latin nation lation
+Original Word:latination
+Output Word:lation
+End of Example--------------------------------------
+west antarctica westarctica
+Original Word:westarctica
+Output Word:wesctica
+End of Example--------------------------------------
+saints thanksgiving sanksgiving
+Original Word:saintsgiving
+Output Word:shanksgiving
+End of Example--------------------------------------
+recap crap recrap
+Original Word:recrap
+Output Word:rerap
+End of Example--------------------------------------
+recession bronchitis recessionchitis
+Original Word:recessionitis
+Output Word:renchitis
+End of Example--------------------------------------
+palin mccain pain
+Original Word:palicain
+Output Word:palicain
+End of Example--------------------------------------
+sex exposition sexposition
+Original Word:sexposition
+Output Word:sexposition
+End of Example--------------------------------------
+trample stampede trampede
+Original Word:trampede
+Output Word:tramppede
+End of Example--------------------------------------
+integrated electronics intelectronics
+Original Word:intel
+Output Word:integrronics
+End of Example--------------------------------------
+confusion monopoly conopoly
+Original Word:confusopoly
+Output Word:confoly
+End of Example--------------------------------------
+pregnant purgatory ppurgatory
+Original Word:pregnatory
+Output Word:pregnatory
+End of Example--------------------------------------
+stupendous fabulous stupendoulous
+Original Word:stupendulous
+Output Word:stupendulous
+End of Example--------------------------------------
+peach nectarine pectarine
+Original Word:peacherine
+Output Word:peactarine
+End of Example--------------------------------------
+floor incest flincest
+Original Word:floorcest
+Output Word:floorcest
+End of Example--------------------------------------
+she male sheale
+Original Word:shemale
+Output Word:shele
+End of Example--------------------------------------
+yesterday decade yestecade
+Original Word:yesterdecade
+Output Word:yesterdecade
+End of Example--------------------------------------
+sacred edifice sacredifice
+Original Word:sacredfice
+Output Word:sacredice
+End of Example--------------------------------------
+brother professional brofessional
+Original Word:brofessional
+Output Word:brotheonal
+End of Example--------------------------------------
+smell sexy smexy
+Original Word:smexy
+Output Word:smelly
+End of Example--------------------------------------
+bride anorexia bria
+Original Word:bridorexia
+Output Word:brinorexia
+End of Example--------------------------------------
+flashlight flesh flashlesh
+Original Word:fleshlight
+Output Word:fllesh
+End of Example--------------------------------------
+porter manteau porteau
+Original Word:portmanteau
+Output Word:porteau
+End of Example--------------------------------------
+bieber believer biebeliever
+Original Word:belieber
+Output Word:biebiever
+End of Example--------------------------------------
+aviation gasoline aviatioline
+Original Word:avgas
+Output Word:avine
+End of Example--------------------------------------
+medical aid maid
+Original Word:medicaid
+Output Word:medicalaid
+End of Example--------------------------------------
+cheese jesus cheesus
+Original Word:cheesus
+Output Word:cheesus
+End of Example--------------------------------------
+dallas attitude dattitude
+Original Word:dallitude
+Output Word:dallattitude
+End of Example--------------------------------------
+ignoramus anus ignus
+Original Word:ignoranus
+Output Word:ignorus
+End of Example--------------------------------------
+ascii alphabetical ascal
+Original Word:asciibetical
+Output Word:ascabetical
+End of Example--------------------------------------
+french english frenglish
+Original Word:franglish
+Output Word:frenglish
+End of Example--------------------------------------
+doh moment doment
+Original Word:dohment
+Output Word:doment
+End of Example--------------------------------------
+fiction bibliography fictiography
+Original Word:fibliography
+Output Word:fictiography
+End of Example--------------------------------------
+waitress actress waitractress
+Original Word:wactress
+Output Word:wactress
+End of Example--------------------------------------
+fake asian fasian
+Original Word:fasian
+Output Word:fakeasian
+End of Example--------------------------------------
+heterosexual flexible heterosexible
+Original Word:heteroflexible
+Output Word:hetexible
+End of Example--------------------------------------
+intoxicated text intoxicatext
+Original Word:intexticated
+Output Word:intoxicat
+End of Example--------------------------------------
+flirt martini flirtini
+Original Word:flirtini
+Output Word:flartini
+End of Example--------------------------------------
+bella alice belice
+Original Word:bellice
+Output Word:bellalice
+End of Example--------------------------------------
+photograph biography photography
+Original Word:photobiography
+Output Word:photraphy
+End of Example--------------------------------------
+free recycling frecycling
+Original Word:freecycling
+Output Word:freeng
+End of Example--------------------------------------
+add appendix addix
+Original Word:addendix
+Output Word:addendix
+End of Example--------------------------------------
+porn portfolio poportfolio
+Original Word:pornfolio
+Output Word:pornfolio
+End of Example--------------------------------------
+kitten personality kittenality
+Original Word:kittenality
+Output Word:kittersonality
+End of Example--------------------------------------
+family clone familone
+Original Word:famiclone
+Output Word:familone
+End of Example--------------------------------------
+nigger memorabilia niggerabilia
+Original Word:niggerabilia
+Output Word:niggemorabilia
+End of Example--------------------------------------
+shock advertising shadvertising
+Original Word:shockvertising
+Output Word:shing
+End of Example--------------------------------------
+palin enthusiasm palinthusiasm
+Original Word:palinthusiasm
+Output Word:paliasm
+End of Example--------------------------------------
+mob democracy mocracy
+Original Word:mobocracy
+Output Word:mocracy
+End of Example--------------------------------------
+bud bartender buder
+Original Word:budtender
+Output Word:budender
+End of Example--------------------------------------
+pensive sieve pensieve
+Original Word:pensieve
+Output Word:pensieve
+End of Example--------------------------------------
+spike angel sspike
+Original Word:spangel
+Output Word:spangel
+End of Example--------------------------------------
+rendezvous booze rendezvooze
+Original Word:rendezbooze
+Output Word:rendooze
+End of Example--------------------------------------
+lawl walrus lalrus
+Original Word:lawlrus
+Output Word:lalrus
+End of Example--------------------------------------
+architect electronica architectronica
+Original Word:architectronica
+Output Word:archionica
+End of Example--------------------------------------
+pizza calzone pizzalzone
+Original Word:pizzone
+Output Word:pizzalzone
+End of Example--------------------------------------
+tender macaroni tenderoni
+Original Word:tenderoni
+Output Word:tendaroni
+End of Example--------------------------------------
+wimp pussy wimpussy
+Original Word:wuss
+Output Word:wimpussy
+End of Example--------------------------------------
+american indian amerindian
+Original Word:amerind
+Output Word:amerian
+End of Example--------------------------------------
+irrational right iright
+Original Word:irrightional
+Output Word:irright
+End of Example--------------------------------------
+vince insanity vinsanity
+Original Word:vinsanity
+Output Word:vinsanity
+End of Example--------------------------------------
+cockblock apocalypse cocalypse
+Original Word:cockblocalypse
+Output Word:cockblocke
+End of Example--------------------------------------
+teenage tween ten
+Original Word:tweenage
+Output Word:teenageen
+End of Example--------------------------------------
+boob spectacular bectacular
+Original Word:boobular
+Output Word:boobectacular
+End of Example--------------------------------------
+cartoon tsunami cartoonami
+Original Word:toonami
+Output Word:cartoonami
+End of Example--------------------------------------
+celestial escalating celescalating
+Original Word:celescalating
+Output Word:celescalating
+End of Example--------------------------------------
+god podcast godcast
+Original Word:godcast
+Output Word:godcast
+End of Example--------------------------------------
+pedophile bear pear
+Original Word:pedobear
+Output Word:pedear
+End of Example--------------------------------------
+precede sequel presequel
+Original Word:prequel
+Output Word:prequel
+End of Example--------------------------------------
+celtic psychedelic celic
+Original Word:celtadelic
+Output Word:celtedelic
+End of Example--------------------------------------
+yogurt popsicle yopsicle
+Original Word:yosicle
+Output Word:yogsicle
+End of Example--------------------------------------
+infinity millionaire infinaire
+Original Word:infinitionaire
+Output Word:infionaire
+End of Example--------------------------------------
+earmark marxist earmarxist
+Original Word:earmarxist
+Output Word:earist
+End of Example--------------------------------------
+scum fuzz scuzz
+Original Word:scuzz
+Output Word:scuzz
+End of Example--------------------------------------
+cybernetic psychology cychology
+Original Word:cyberpsychology
+Output Word:cybology
+End of Example--------------------------------------
+chalk typo chatypo
+Original Word:chalko
+Output Word:chypo
+End of Example--------------------------------------
+serialize deserialize serialise
+Original Word:serdes
+Output Word:serialialize
+End of Example--------------------------------------
+condom contemplation condomplation
+Original Word:condomplation
+Output Word:condemplation
+End of Example--------------------------------------
+diva attitude divatude
+Original Word:divatude
+Output Word:divude
+End of Example--------------------------------------
+bang smash bash
+Original Word:bash
+Output Word:bangash
+End of Example--------------------------------------
+pegasus sister pegasister
+Original Word:pegasister
+Output Word:pegar
+End of Example--------------------------------------
+frankenstein fish frankensteish
+Original Word:frankenfish
+Output Word:frankeish
+End of Example--------------------------------------
+disgust constipated disgustipated
+Original Word:disgustipated
+Output Word:disgusted
+End of Example--------------------------------------
+pattern capacity pacity
+Original Word:patternicity
+Output Word:patternity
+End of Example--------------------------------------
+family humiliated familiated
+Original Word:familiated
+Output Word:familiated
+End of Example--------------------------------------
+fun engineering fungineering
+Original Word:fungineering
+Output Word:fungineering
+End of Example--------------------------------------
+american track amerack
+Original Word:amtrak
+Output Word:americk
+End of Example--------------------------------------
+jean leggings jeggings
+Original Word:jeggings
+Output Word:jeggings
+End of Example--------------------------------------
+terrible horrible terible
+Original Word:torrible
+Output Word:terible
+End of Example--------------------------------------
+geospatial enablement geospablement
+Original Word:geoenable
+Output Word:geospant
+End of Example--------------------------------------
+snow apocalypse snocalypse
+Original Word:snowpocalypse
+Output Word:snapocalypse
+End of Example--------------------------------------
+prance exercise prancise
+Original Word:prancercise
+Output Word:prancercise
+End of Example--------------------------------------
+jazz ballerina jallerina
+Original Word:jazzerina
+Output Word:jazlerina
+End of Example--------------------------------------
+back acne bacne
+Original Word:bacne
+Output Word:backe
+End of Example--------------------------------------
+plastic agglomerate plomerate
+Original Word:plastiglomerate
+Output Word:plagglomerate
+End of Example--------------------------------------
+skating hitching skatitching
+Original Word:skitching
+Output Word:sking
+End of Example--------------------------------------
+man sandwich mandwich
+Original Word:manwich
+Output Word:mandwich
+End of Example--------------------------------------
+quest existence questence
+Original Word:quexistence
+Output Word:quexistence
+End of Example--------------------------------------
+draco harry dry
+Original Word:drarry
+Output Word:drarry
+End of Example--------------------------------------
+fast masturbate fasturbate
+Original Word:fasturbate
+Output Word:fasturbate
+End of Example--------------------------------------
+documentary shock dock
+Original Word:shockumentary
+Output Word:dock
+End of Example--------------------------------------
+car garbage carbage
+Original Word:carbage
+Output Word:carbage
+End of Example--------------------------------------
+shit snot shisnot
+Original Word:shnot
+Output Word:shitot
+End of Example--------------------------------------
+male nurse murse
+Original Word:murse
+Output Word:murse
+End of Example--------------------------------------
+car ebonics cebonics
+Original Word:carbonics
+Output Word:caronics
+End of Example--------------------------------------
+sneeze anticipated snticipated
+Original Word:sneezetipated
+Output Word:snanticipated
+End of Example--------------------------------------
+awkward fest est
+Original Word:awkfeat
+Output Word:awkwardest
+End of Example--------------------------------------
+fun fantastic funtastic
+Original Word:funtastic
+Output Word:funtastic
+End of Example--------------------------------------
+smelly tellyscope smellyscope
+Original Word:smelloscope
+Output Word:smellyscope
+End of Example--------------------------------------
+fag magnitude fagnitude
+Original Word:fagnitude
+Output Word:fagitude
+End of Example--------------------------------------
+oil millionaire oillionaire
+Original Word:olionaire
+Output Word:oillionaire
+End of Example--------------------------------------
+brother programmer brogrammer
+Original Word:brogrammer
+Output Word:brotrammer
+End of Example--------------------------------------
+haggle tussle hagle
+Original Word:hassle
+Output Word:hagglle
+End of Example--------------------------------------
+swiss english swish
+Original Word:swisslish
+Output Word:swinglish
+End of Example--------------------------------------
+phone tablet phontablet
+Original Word:phablet
+Output Word:phonet
+End of Example--------------------------------------
+boat hotel botel
+Original Word:botel
+Output Word:botel
+End of Example--------------------------------------
+floor wardrobe floordrobe
+Original Word:floordrobe
+Output Word:floordrobe
+End of Example--------------------------------------
+snuggle coddle snugle
+Original Word:snoogle
+Output Word:snugle
+End of Example--------------------------------------
+balloon vehicle bale
+Original Word:balloonicle
+Output Word:balloonicle
+End of Example--------------------------------------
+massachusetts asshole masshole
+Original Word:masshole
+Output Word:masshole
+End of Example--------------------------------------
+congratulations graduation congraduation
+Original Word:congraduations
+Output Word:congraduation
+End of Example--------------------------------------
+decaf decathlon deecathlon
+Original Word:decaflon
+Output Word:declon
+End of Example--------------------------------------
+internet etiquette internetiquette
+Original Word:netiquette
+Output Word:interneette
+End of Example--------------------------------------
+niubi ability niubility
+Original Word:niubility
+Output Word:niability
+End of Example--------------------------------------
+blabber stutter blster
+Original Word:blutter
+Output Word:blabter
+End of Example--------------------------------------
+alcohol holiday alcoholiday
+Original Word:alcoholiday
+Output Word:aliday
+End of Example--------------------------------------
+hispanic pander hispander
+Original Word:hispander
+Output Word:hispander
+End of Example--------------------------------------
+hazardous material hazaterial
+Original Word:hazmat
+Output Word:hazardorial
+End of Example--------------------------------------
+marionette puppet marionepuppet
+Original Word:muppet
+Output Word:marionet
+End of Example--------------------------------------
+catastrophe cacaphony catastrophony
+Original Word:castrophony
+Output Word:catacaphony
+End of Example--------------------------------------
+drink friday driday
+Original Word:driday
+Output Word:drinkay
+End of Example--------------------------------------
+brag vagabond bragabond
+Original Word:bragabond
+Output Word:bragabond
+End of Example--------------------------------------
+female robot fobot
+Original Word:fembot
+Output Word:femot
+End of Example--------------------------------------
+prostitute tot prostot
+Original Word:prostitot
+Output Word:prostitut
+End of Example--------------------------------------
+cheese hamburger cheeshamburger
+Original Word:cheeseburger
+Output Word:cheemburger
+End of Example--------------------------------------
+matt elliot melliot
+Original Word:mattel
+Output Word:matliot
+End of Example--------------------------------------
+pretend text pretext
+Original Word:pretext
+Output Word:pretext
+End of Example--------------------------------------
+pan enormous panormous
+Original Word:panormous
+Output Word:panormous
+End of Example--------------------------------------
+men feminist meminist
+Original Word:meninist
+Output Word:meminist
+End of Example--------------------------------------
+slow loading sloading
+Original Word:sloading
+Output Word:sloading
+End of Example--------------------------------------
+nil millionaire nillionaire
+Original Word:nillionaire
+Output Word:nillionaire
+End of Example--------------------------------------
+winchester incest wincest
+Original Word:wincest
+Output Word:wincest
+End of Example--------------------------------------
+glass asshole glasshole
+Original Word:glasshole
+Output Word:glasshole
+End of Example--------------------------------------
+caterpillor palor calor
+Original Word:caterpallor
+Output Word:caterpalor
+End of Example--------------------------------------
+adjective retard adjectard
+Original Word:adjectard
+Output Word:adjectard
+End of Example--------------------------------------
+squint intern squintern
+Original Word:squintern
+Output Word:squintern
+End of Example--------------------------------------
+sports broadcast sporoadcast
+Original Word:sportscast
+Output Word:sportast
+End of Example--------------------------------------
+debate argument debargument
+Original Word:debargue
+Output Word:debargument
+End of Example--------------------------------------
+pekingnese poodle podle
+Original Word:pekapoo
+Output Word:pekinle
+End of Example--------------------------------------
+laundry mat lat
+Original Word:laundromat
+Output Word:laundrymat
+End of Example--------------------------------------
+alpaca apocalypse alpacalypse
+Original Word:alpacalypse
+Output Word:alpacse
+End of Example--------------------------------------
+brother romance bromance
+Original Word:bromance
+Output Word:brothence
+End of Example--------------------------------------
+cumberbatch bitch cumbitch
+Original Word:cumberbitch
+Output Word:cumbitch
+End of Example--------------------------------------
+ny london ndon
+Original Word:nylon
+Output Word:nylondon
+End of Example--------------------------------------
+static friction statiction
+Original Word:stiction
+Output Word:statiction
+End of Example--------------------------------------
+blot botch blotch
+Original Word:blotch
+Output Word:blotch
+End of Example--------------------------------------
+spam retard spard
+Original Word:spamtard
+Output Word:spetard
+End of Example--------------------------------------
+strategy pragmatics stragmatics
+Original Word:stragmatics
+Output Word:stragmatics
+End of Example--------------------------------------
+jackrabbit antelope jackrantelope
+Original Word:jackalope
+Output Word:jackelope
+End of Example--------------------------------------
+prototype flight plight
+Original Word:protoflight
+Output Word:protht
+End of Example--------------------------------------
+ecology imagination ecolonation
+Original Word:ecomagination
+Output Word:ecmagination
+End of Example--------------------------------------
+juggernaut snot juggernot
+Original Word:juggersnot
+Output Word:juggernot
+End of Example--------------------------------------
+federal express federess
+Original Word:fedex
+Output Word:fexpress
+End of Example--------------------------------------
+present absenteeism presenteeism
+Original Word:presenteeism
+Output Word:prenteeism
+End of Example--------------------------------------
+greed economics greconomics
+Original Word:greedonomics
+Output Word:greenomics
+End of Example--------------------------------------
+navel valencia navalencia
+Original Word:navelencia
+Output Word:navelencia
+End of Example--------------------------------------
+smell elephant smelephant
+Original Word:smellephant
+Output Word:smellant
+End of Example--------------------------------------
+glitter literati gliterati
+Original Word:glitterati
+Output Word:gliterati
+End of Example--------------------------------------
+memory index mex
+Original Word:memex
+Output Word:memordex
+End of Example--------------------------------------
+man brassier massier
+Original Word:manssiere
+Output Word:mansier
+End of Example--------------------------------------
+liquid oxygen loxygen
+Original Word:lox
+Output Word:liqgen
+End of Example--------------------------------------
+non conversation nonversation
+Original Word:nonversation
+Output Word:nonversation
+End of Example--------------------------------------
+gene chromosome ghromosome
+Original Word:genome
+Output Word:genome
+End of Example--------------------------------------
+holiday daze holidaze
+Original Word:holidaze
+Output Word:holidaze
+End of Example--------------------------------------
+multiple modal modale
+Original Word:multimodal
+Output Word:multipl
+End of Example--------------------------------------
+graph calculator gralculator
+Original Word:graphilator
+Output Word:grapculator
+End of Example--------------------------------------
+digital monster digiter
+Original Word:digimon
+Output Word:digster
+End of Example--------------------------------------
+kleptocrat king kking
+Original Word:kleptoking
+Output Word:klepting
+End of Example--------------------------------------
+oppressive precedent opprecedent
+Original Word:opprescedent
+Output Word:oppredent
+End of Example--------------------------------------
+camelot spam camelam
+Original Word:spamalot
+Output Word:camelom
+End of Example--------------------------------------
+him bimbo himbo
+Original Word:himbo
+Output Word:himbo
+End of Example--------------------------------------
+breath analyzer branalyzer
+Original Word:breathalyzer
+Output Word:branalyzer
+End of Example--------------------------------------
+corpse popsicle corpsicle
+Original Word:corpsicle
+Output Word:corpsicle
+End of Example--------------------------------------
+agitation propaganda agaganda
+Original Word:agitprop
+Output Word:agitanda
+End of Example--------------------------------------
+nano technology nanology
+Original Word:nanotech
+Output Word:nanology
+End of Example--------------------------------------
+administration trivia administrivia
+Original Word:administrivia
+Output Word:admivia
+End of Example--------------------------------------
+abnormal end abnd
+Original Word:abend
+Output Word:abend
+End of Example--------------------------------------
+skanky raunchy skaunchy
+Original Word:skaunchy
+Output Word:skankhy
+End of Example--------------------------------------
+blog logjam blogjam
+Original Word:blogjam
+Output Word:blogjam
+End of Example--------------------------------------
+nerd nirvana nervana
+Original Word:nerdvana
+Output Word:nerda
+End of Example--------------------------------------
+beer cheerios beerios
+Original Word:beerios
+Output Word:beerios
+End of Example--------------------------------------
+kid accessory kaccessory
+Original Word:kidcessory
+Output Word:kidory
+End of Example--------------------------------------
+breast estimate breastimate
+Original Word:breastimate
+Output Word:breastimate
+End of Example--------------------------------------
+bad advice badvice
+Original Word:badvice
+Output Word:badvice
+End of Example--------------------------------------
+obama healthcare obamalthcare
+Original Word:obamacare
+Output Word:obare
+End of Example--------------------------------------
+fuming furious fumious
+Original Word:frumious
+Output Word:fumingious
+End of Example--------------------------------------
+cosmetic pharmaceutical cosmetical
+Original Word:cosmeceutical
+Output Word:cosmeutical
+End of Example--------------------------------------
+travel monologue travelogue
+Original Word:travelogue
+Output Word:travelogue
+End of Example--------------------------------------
+compatibility quality compatity
+Original Word:compaq
+Output Word:compatity
+End of Example--------------------------------------
+transphobia misogyny transogyny
+Original Word:transmisogyny
+Output Word:trany
+End of Example--------------------------------------
+vagina vegetarian vaginarian
+Original Word:vagitarian
+Output Word:vagiarian
+End of Example--------------------------------------
+breath analyser brer
+Original Word:breathalyser
+Output Word:branalyser
+End of Example--------------------------------------
+stew soup ssoup
+Original Word:stoup
+Output Word:stoup
+End of Example--------------------------------------
+fourteen nights fourteenights
+Original Word:fortnight
+Output Word:fourteenights
+End of Example--------------------------------------
+awkward word awkword
+Original Word:awkword
+Output Word:awkword
+End of Example--------------------------------------
+introduction douchebag introduchebag
+Original Word:introdouche
+Output Word:introductiog
+End of Example--------------------------------------
+pander androgynous pandrogynous
+Original Word:pandrogynous
+Output Word:pandrogynous
+End of Example--------------------------------------
+electronic execution elecution
+Original Word:electrocution
+Output Word:electron
+End of Example--------------------------------------
+cyber psychedelic cybedelic
+Original Word:cyberdelic
+Output Word:cybedelic
+End of Example--------------------------------------
+man recession mman
+Original Word:mancession
+Output Word:mansion
+End of Example--------------------------------------
+city bank cank
+Original Word:citibank
+Output Word:citk
+End of Example--------------------------------------
+spectacular cooler specooler
+Original Word:spectacooler
+Output Word:spectaculer
+End of Example--------------------------------------
+penis gallery pery
+Original Word:penigallery
+Output Word:penillery
+End of Example--------------------------------------
+play software plare
+Original Word:playware
+Output Word:playtware
+End of Example--------------------------------------
+car karaoke caraoke
+Original Word:caraoke
+Output Word:caraoke
+End of Example--------------------------------------
+pasta possibility pasibility
+Original Word:pastability
+Output Word:pibility
+End of Example--------------------------------------
+library brat librat
+Original Word:librat
+Output Word:libraryt
+End of Example--------------------------------------
+mole moustache mmoustache
+Original Word:molestache
+Output Word:moche
+End of Example--------------------------------------
+free coupon frcoupon
+Original Word:freepon
+Output Word:froupon
+End of Example--------------------------------------
+view beautiful vieautiful
+Original Word:viewtiful
+Output Word:viautiful
+End of Example--------------------------------------
+dildo audacity daudacity
+Original Word:dildacity
+Output Word:dilaudacity
+End of Example--------------------------------------
+shit wasted shited
+Original Word:shwasted
+Output Word:shited
+End of Example--------------------------------------
+fag gag fagag
+Original Word:fagag
+Output Word:fagag
+End of Example--------------------------------------
+apathy theist apatheist
+Original Word:apatheist
+Output Word:apeist
+End of Example--------------------------------------
+city group cityup
+Original Word:citigroup
+Output Word:cityp
+End of Example--------------------------------------
+rectum automobile rectumobile
+Original Word:rectumobile
+Output Word:rectomobile
+End of Example--------------------------------------
+sex exorcism sexorcism
+Original Word:sexercism
+Output Word:sexorcism
+End of Example--------------------------------------
+half dialogue halogue
+Original Word:halfalogue
+Output Word:hallogue
+End of Example--------------------------------------
+nutra pharmaceutical nutical
+Original Word:nutraceutical
+Output Word:nutrarmaceutical
+End of Example--------------------------------------
+nerd nostaglia neostaglia
+Original Word:nerdstalgia
+Output Word:nernostaglia
+End of Example--------------------------------------
+parachute trooper parachutrooper
+Original Word:paratrooper
+Output Word:parper
+End of Example--------------------------------------
+vegetarian terrible vegetarible
+Original Word:vegeterrible
+Output Word:vegerrible
+End of Example--------------------------------------
+hand ancestors hancestors
+Original Word:handcestors
+Output Word:hancestors
+End of Example--------------------------------------
+kinetic connect conect
+Original Word:kinect
+Output Word:kinect
+End of Example--------------------------------------
+after tomorrow aftomorrow
+Original Word:affemorrow
+Output Word:afterrow
+End of Example--------------------------------------
+cyber hypochondriac cypochondriac
+Original Word:cyberchondriac
+Output Word:cybondriac
+End of Example--------------------------------------
+gear erotica gerotica
+Original Word:gearotica
+Output Word:gearotica
+End of Example--------------------------------------
+banker gangster bangster
+Original Word:bankster
+Output Word:bankster
+End of Example--------------------------------------
+simultaneous broadcasting simulting
+Original Word:simulcasting
+Output Word:simusting
+End of Example--------------------------------------
+economist bureaucrat ecrat
+Original Word:econocrat
+Output Word:ecbureaucrat
+End of Example--------------------------------------
+butt selfie belfie
+Original Word:belfie
+Output Word:belfie
+End of Example--------------------------------------
+advil addict advict
+Original Word:advict
+Output Word:advict
+End of Example--------------------------------------
+faux mohawk fawk
+Original Word:fauxhawk
+Output Word:fauxawk
+End of Example--------------------------------------
+warren keeney warreney
+Original Word:wakeeney
+Output Word:warreeney
+End of Example--------------------------------------
+cinema complex cinemplex
+Original Word:cineplex
+Output Word:cinemlex
+End of Example--------------------------------------
+scrumptious delicious scrus
+Original Word:scrumlicious
+Output Word:scrumpticious
+End of Example--------------------------------------
+malicious advertising madvertising
+Original Word:malvertising
+Output Word:malicing
+End of Example--------------------------------------
+burn terminate burnate
+Original Word:burninate
+Output Word:burnate
+End of Example--------------------------------------
+text expectation texpectation
+Original Word:textpectation
+Output Word:texpectation
+End of Example--------------------------------------
+creepy paparazzi creepaparazzi
+Original Word:creeperazzi
+Output Word:creeparazzi
+End of Example--------------------------------------
+introvert sexual introvexual
+Original Word:introsexual
+Output Word:introvual
+End of Example--------------------------------------
+britain remain bremain
+Original Word:bremain
+Output Word:brin
+End of Example--------------------------------------
+abercrombie zombie abie
+Original Word:aberzombie
+Output Word:abercre
+End of Example--------------------------------------
+horny hungry horngry
+Original Word:horngry
+Output Word:horgry
+End of Example--------------------------------------
+beard dandruff beardandruff
+Original Word:beardruff
+Output Word:beandruff
+End of Example--------------------------------------
+anvil malicious anvilicious
+Original Word:anvilicious
+Output Word:anvicious
+End of Example--------------------------------------
+taximeter cabriolet tabriolet
+Original Word:taxicab
+Output Word:taximabriolet
+End of Example--------------------------------------
+positive electron pon
+Original Word:positron
+Output Word:posectron
+End of Example--------------------------------------
+educational excellence educationalence
+Original Word:edexcel
+Output Word:edellence
+End of Example--------------------------------------
+parachute sailing parailing
+Original Word:parasailing
+Output Word:paing
+End of Example--------------------------------------
+emotion icon emon
+Original Word:emoticon
+Output Word:emoticon
+End of Example--------------------------------------
+anarchy architecture anarchitecture
+Original Word:anarchitecture
+Output Word:anarchitecture
+End of Example--------------------------------------
+alsace thompson alson
+Original Word:alstom
+Output Word:alspson
+End of Example--------------------------------------
+brother pony bpony
+Original Word:brony
+Output Word:brony
+End of Example--------------------------------------
+animate electronic anic
+Original Word:animatronic
+Output Word:animateronic
+End of Example--------------------------------------
+czech slovakia ch
+Original Word:czechoslovakia
+Output Word:czevakia
+End of Example--------------------------------------
+douchebag blog doucheblog
+Original Word:doucheblog
+Output Word:doug
+End of Example--------------------------------------
+drawing drabble drable
+Original Word:drawble
+Output Word:drawingle
+End of Example--------------------------------------
+internet aristocracy internetocracy
+Original Word:netocracy
+Output Word:interneocracy
+End of Example--------------------------------------
+congress digressing congressing
+Original Word:congressing
+Output Word:congressing
+End of Example--------------------------------------
+friend incest friencest
+Original Word:friendcest
+Output Word:frincest
+End of Example--------------------------------------
+edge hedgehog edgehog
+Original Word:edgehog
+Output Word:edgehog
+End of Example--------------------------------------
+epigenesis genetics epigenetics
+Original Word:epigenetics
+Output Word:epinetics
+End of Example--------------------------------------
+volunteer told vold
+Original Word:voluntold
+Output Word:vold
+End of Example--------------------------------------
+sparkle vampire spire
+Original Word:sparklepire
+Output Word:sparklire
+End of Example--------------------------------------
+favourite icon favon
+Original Word:favicon
+Output Word:favouricon
+End of Example--------------------------------------
+bourgeois ghetto bourghetto
+Original Word:boughetto
+Output Word:bourgetto
+End of Example--------------------------------------
+celebrity debutant celebutant
+Original Word:celebutant
+Output Word:celebritant
+End of Example--------------------------------------
+oxford cambridge ocambridge
+Original Word:oxbridge
+Output Word:oxidge
+End of Example--------------------------------------
+manhattan stonehenge manhenge
+Original Word:manhattanhenge
+Output Word:manhenge
+End of Example--------------------------------------
+hypotenuse path hypath
+Original Word:hypathenuse
+Output Word:hypoteth
+End of Example--------------------------------------
+godly awesome gawesome
+Original Word:godsome
+Output Word:godesome
+End of Example--------------------------------------
+irritation entertainment irritainment
+Original Word:irritainment
+Output Word:irrinment
+End of Example--------------------------------------
+flavor orgasm flavorgasm
+Original Word:flavorgasm
+Output Word:flavorgasm
+End of Example--------------------------------------
+faux mullet famullet
+Original Word:fauxllet
+Output Word:faullet
+End of Example--------------------------------------
+american way ameriway
+Original Word:amway
+Output Word:americay
+End of Example--------------------------------------
+librarian boob liboob
+Original Word:liboobrian
+Output Word:libroob
+End of Example--------------------------------------
+norwegian injun norweginjun
+Original Word:weejun
+Output Word:norinjun
+End of Example--------------------------------------
+bed orgasm borgasm
+Original Word:bedgasm
+Output Word:bedgasm
+End of Example--------------------------------------
+northern virginia northerginia
+Original Word:nova
+Output Word:nornia
+End of Example--------------------------------------
+porn pinocchio pornocchio
+Original Word:pornocchio
+Output Word:pornhio
+End of Example--------------------------------------
+laptop desktop llaptop
+Original Word:lapdesk
+Output Word:laptktop
+End of Example--------------------------------------
+popcorn crack popcrack
+Original Word:popcrack
+Output Word:popcrack
+End of Example--------------------------------------
+indian atlantic intic
+Original Word:indialantic
+Output Word:indatlantic
+End of Example--------------------------------------
+cunt interrupted cunterrupted
+Original Word:cunterrupted
+Output Word:cunterrupted
+End of Example--------------------------------------
+fridge widget fridget
+Original Word:fridget
+Output Word:fridget
+End of Example--------------------------------------
+hack activism hactivism
+Original Word:hacktivism
+Output Word:hackivism
+End of Example--------------------------------------
+fun confetti funfetti
+Original Word:funfetti
+Output Word:funfetti
+End of Example--------------------------------------
+jew jubilee jee
+Original Word:jewbilee
+Output Word:jewilee
+End of Example--------------------------------------
+abandoned mansion abansion
+Original Word:abansion
+Output Word:abansion
+End of Example--------------------------------------
+mascara scary mascary
+Original Word:mascary
+Output Word:mascary
+End of Example--------------------------------------
+fiction dictionary fictionary
+Original Word:fictionary
+Output Word:fictionary
+End of Example--------------------------------------
+miscreant antics miscreantics
+Original Word:miscreantics
+Output Word:mics
+End of Example--------------------------------------
+teen between ten
+Original Word:tween
+Output Word:teenbetween
+End of Example--------------------------------------
+chemotactic cytokine chemokine
+Original Word:chemokine
+Output Word:chemotactine
+End of Example--------------------------------------
+clown commander clownder
+Original Word:clownmander
+Output Word:clowmander
+End of Example--------------------------------------
+utilities cooridor utidor
+Original Word:utilidor
+Output Word:utilor
+End of Example--------------------------------------
+sarcasm orgasm sargasm
+Original Word:sargasm
+Output Word:sarcorgasm
+End of Example--------------------------------------
+prostitute boots prostituts
+Original Word:prostiboots
+Output Word:proots
+End of Example--------------------------------------
+lol hilarious larious
+Original Word:lolarious
+Output Word:lolarious
+End of Example--------------------------------------
+lexion espionage lespionage
+Original Word:lexpionage
+Output Word:lexionage
+End of Example--------------------------------------
+grant antartica grantartica
+Original Word:grantartica
+Output Word:grantartica
+End of Example--------------------------------------
+care confronting conting
+Original Word:carefronting
+Output Word:careing
+End of Example--------------------------------------
+free software freee
+Original Word:freeware
+Output Word:froftware
+End of Example--------------------------------------
+biological terrorism biologism
+Original Word:bioterrorism
+Output Word:biologism
+End of Example--------------------------------------
+man amazon mazon
+Original Word:manazon
+Output Word:mazon
+End of Example--------------------------------------
+glee geek gleek
+Original Word:gleek
+Output Word:ggeek
+End of Example--------------------------------------
+pop propaganda popaganda
+Original Word:popaganda
+Output Word:popganda
+End of Example--------------------------------------
+all theist alll
+Original Word:alltheist
+Output Word:alleist
+End of Example--------------------------------------
+magnificent terrific magnificenterrific
+Original Word:magriffic
+Output Word:magnic
+End of Example--------------------------------------
+show romance shomance
+Original Word:showmance
+Output Word:showance
+End of Example--------------------------------------
+chart article charticle
+Original Word:charticle
+Output Word:charticle
+End of Example--------------------------------------
+cupid stupidity cupidity
+Original Word:cupidity
+Output Word:cupidy
+End of Example--------------------------------------
+sleep marathon slep
+Original Word:sleepathon
+Output Word:sleeparathon
+End of Example--------------------------------------
+gasoline alchohol galchohol
+Original Word:gasohol
+Output Word:gaschohol
+End of Example--------------------------------------
+revolution songs revolutiongs
+Original Word:revolusongs
+Output Word:revongs
+End of Example--------------------------------------
+professional nasty professionasty
+Original Word:pronasty
+Output Word:profasty
+End of Example--------------------------------------
+fact haemorrhoid faemorrhoid
+Original Word:factoid
+Output Word:factoid
+End of Example--------------------------------------
+ass acne aacne
+Original Word:assne
+Output Word:asscne
+End of Example--------------------------------------
+botox tax botax
+Original Word:botax
+Output Word:boax
+End of Example--------------------------------------
+snuggle nuzzle snuzzle
+Original Word:snozzle
+Output Word:snugle
+End of Example--------------------------------------
+dumb confound dunfound
+Original Word:dumbfound
+Output Word:dumbfound
+End of Example--------------------------------------
+glamour camping glamping
+Original Word:glamping
+Output Word:glamping
+End of Example--------------------------------------
+fascinate addict fasaddict
+Original Word:fascinaddict
+Output Word:faddict
+End of Example--------------------------------------
+libertarian careless libertareless
+Original Word:libercarelessian
+Output Word:libertareless
+End of Example--------------------------------------
+dude divorce dudivorce
+Original Word:dudevorce
+Output Word:dudedivorce
+End of Example--------------------------------------
+lactation activism lactivism
+Original Word:lactivism
+Output Word:lactivism
+End of Example--------------------------------------
+mother manager mager
+Original Word:momager
+Output Word:moter
+End of Example--------------------------------------
+adorable bubble adorabubble
+Original Word:adorabubble
+Output Word:adorble
+End of Example--------------------------------------
+sanskrit neologism saneologism
+Original Word:sanskritism
+Output Word:sansogism
+End of Example--------------------------------------
+sex relationship selationship
+Original Word:sexationship
+Output Word:sexip
+End of Example--------------------------------------
+funk kinetics funkinetics
+Original Word:funkinetics
+Output Word:funketics
+End of Example--------------------------------------
+mechanical electronics mechanics
+Original Word:mechatronics
+Output Word:mectronics
+End of Example--------------------------------------
+dub subtitle dubtitle
+Original Word:dubtitle
+Output Word:dubtitle
+End of Example--------------------------------------
+steel millionaire steelionaire
+Original Word:steelionaire
+Output Word:stee
+End of Example--------------------------------------
+sneeze fart snart
+Original Word:snart
+Output Word:snart
+End of Example--------------------------------------
+parachute troop parachutroop
+Original Word:paratroop
+Output Word:partroop
+End of Example--------------------------------------
+europe asia eura
+Original Word:eurasia
+Output Word:euria
+End of Example--------------------------------------
+erase racist eracist
+Original Word:eracist
+Output Word:eracist
+End of Example--------------------------------------
+illuminate answer illuminswer
+Original Word:illuminanswer
+Output Word:illuminswer
+End of Example--------------------------------------
+car narcolepsy carcolepsy
+Original Word:carcolepsy
+Output Word:carcolepsy
+End of Example--------------------------------------
+chicago siberia schicago
+Original Word:chiberia
+Output Word:chiberia
+End of Example--------------------------------------
+california train califorain
+Original Word:caltrain
+Output Word:califrain
+End of Example--------------------------------------
+giraffe grafitti girafitti
+Original Word:giraffiti
+Output Word:gitti
+End of Example--------------------------------------
+november beard novembeard
+Original Word:novembeard
+Output Word:noveard
+End of Example--------------------------------------
+kaboom bloom kabloom
+Original Word:kabloom
+Output Word:kaloom
+End of Example--------------------------------------
+word wonderful worful
+Original Word:worderful
+Output Word:worderful
+End of Example--------------------------------------
+liberal orgasm libergasm
+Original Word:libgasm
+Output Word:libergasm
+End of Example--------------------------------------
+fan kingdom fangdom
+Original Word:fandom
+Output Word:fankingdom
+End of Example--------------------------------------
+true real treal
+Original Word:trill
+Output Word:trueal
+End of Example--------------------------------------
+free premium fremium
+Original Word:freemium
+Output Word:fremium
+End of Example--------------------------------------
+fresh sophomore fophomore
+Original Word:freshomore
+Output Word:fromore
+End of Example--------------------------------------
+clitoris literati cliterati
+Original Word:cliterati
+Output Word:cliterati
+End of Example--------------------------------------
+sky kayaking skayaking
+Original Word:skyaking
+Output Word:skykayaking
+End of Example--------------------------------------
+incredible bad incredibad
+Original Word:incredibad
+Output Word:incredibled
+End of Example--------------------------------------
+shamble diabolic shambolic
+Original Word:shambolic
+Output Word:shamblolic
+End of Example--------------------------------------
+sand aqua saqua
+Original Word:squand
+Output Word:sandaqua
+End of Example--------------------------------------
+slant perpendicular slandicular
+Original Word:slantendicular
+Output Word:slarpendicular
+End of Example--------------------------------------
+lacrosse prostitute lacrostitute
+Original Word:lacrosstitute
+Output Word:lacrostitute
+End of Example--------------------------------------
+argument maximum argumaximum
+Original Word:argmax
+Output Word:argumaximum
+End of Example--------------------------------------
+cremated remains cremains
+Original Word:cremains
+Output Word:cremains
+End of Example--------------------------------------
+word hardcore wordcore
+Original Word:wordcore
+Output Word:wordcore
+End of Example--------------------------------------
+inept inception ineption
+Original Word:ineption
+Output Word:ineption
+End of Example--------------------------------------
+joy voyage joage
+Original Word:joyage
+Output Word:joye
+End of Example--------------------------------------
+reddit editor reditor
+Original Word:redditor
+Output Word:reddeditor
+End of Example--------------------------------------
+pun funny punny
+Original Word:punny
+Output Word:punny
+End of Example--------------------------------------
+scandalous raunchy scaunchy
+Original Word:scanchy
+Output Word:scanchy
+End of Example--------------------------------------
+wiki academia wia
+Original Word:wikidemia
+Output Word:wikademia
+End of Example--------------------------------------
+man landscape mandscape
+Original Word:manscape
+Output Word:manscape
+End of Example--------------------------------------
+google doppelganger googlganger
+Original Word:googleganger
+Output Word:googger
+End of Example--------------------------------------
+telephone marathon tarathon
+Original Word:telethon
+Output Word:teleparathon
+End of Example--------------------------------------
+pharmaceutical farming pharming
+Original Word:pharming
+Output Word:pharming
+End of Example--------------------------------------
+consumer hurricane consumericane
+Original Word:consumicane
+Output Word:consicane
+End of Example--------------------------------------
+boom hoist boist
+Original Word:boost
+Output Word:boist
+End of Example--------------------------------------
+internet nest internest
+Original Word:internest
+Output Word:internest
+End of Example--------------------------------------
+tri tongs trongs
+Original Word:trongs
+Output Word:trongs
+End of Example--------------------------------------
+bakerstreet waterloo bakerloo
+Original Word:bakerloo
+Output Word:bakeerloo
+End of Example--------------------------------------
+valley speaker valleaker
+Original Word:valleyspeak
+Output Word:valleaker
+End of Example--------------------------------------
+geography caching geograching
+Original Word:geocaching
+Output Word:geograching
+End of Example--------------------------------------
+gender gingerbread genderbread
+Original Word:genderbread
+Output Word:gerbread
+End of Example--------------------------------------
+abstain kiss abss
+Original Word:abstakiss
+Output Word:abiss
+End of Example--------------------------------------
+american anthrax americanthrax
+Original Word:amerithrax
+Output Word:ameriax
+End of Example--------------------------------------
+spooky boop spoop
+Original Word:spoopy
+Output Word:spoop
+End of Example--------------------------------------
+aqua acrobatics aquacrobatics
+Original Word:aquabatics
+Output Word:aquacrobatics
+End of Example--------------------------------------
+web log wog
+Original Word:blog
+Output Word:wlog
+End of Example--------------------------------------
+word obsessive wobsessive
+Original Word:wordsessive
+Output Word:worsive
+End of Example--------------------------------------
+back substitution bstitution
+Original Word:backstitution
+Output Word:backtitution
+End of Example--------------------------------------
+lacoste prostitute lacostitute
+Original Word:lacostitute
+Output Word:lacostitute
+End of Example--------------------------------------
+elvis eviscerate elviscerate
+Original Word:elviscerate
+Output Word:elvate
+End of Example--------------------------------------
+snow drizzle sndrizzle
+Original Word:snizzle
+Output Word:snrizzle
+End of Example--------------------------------------
+porn ornament pornament
+Original Word:pornament
+Output Word:pornament
+End of Example--------------------------------------
+sound index soundex
+Original Word:spamdex
+Output Word:soundex
+End of Example--------------------------------------
+text extrovert textrovert
+Original Word:textrovert
+Output Word:textrovert
+End of Example--------------------------------------
+hot awesome hawesome
+Original Word:hotsome
+Output Word:hotesome
+End of Example--------------------------------------
+pro prediction pprediction
+Original Word:prodiction
+Output Word:priction
+End of Example--------------------------------------
+dance dyslexia dandyslexia
+Original Word:dancelexia
+Output Word:dancexia
+End of Example--------------------------------------
+web camera wera
+Original Word:webcam
+Output Word:webera
+End of Example--------------------------------------
+outside patient oupatient
+Original Word:outpatient
+Output Word:outsient
+End of Example--------------------------------------
+stop option stoption
+Original Word:stoption
+Output Word:stoption
+End of Example--------------------------------------
+hacker activism hactivism
+Original Word:hacktivism
+Output Word:hackerism
+End of Example--------------------------------------
+ipod broadcasting ipodcasting
+Original Word:podcasting
+Output Word:iping
+End of Example--------------------------------------
+victoria inox vinox
+Original Word:victorinox
+Output Word:victorinox
+End of Example--------------------------------------
+boredom orgasm borgasm
+Original Word:boregasm
+Output Word:borgasm
+End of Example--------------------------------------
+group outfit groupit
+Original Word:groutfit
+Output Word:groutfit
+End of Example--------------------------------------
+squirrel rat squirat
+Original Word:sqrat
+Output Word:squirrat
+End of Example--------------------------------------
+abandoned software abansoftware
+Original Word:abandonware
+Output Word:abandware
+End of Example--------------------------------------
+share parenting sharenting
+Original Word:sharenting
+Output Word:sharenting
+End of Example--------------------------------------
+biological chronicle biologichronicle
+Original Word:bionicle
+Output Word:bionicle
+End of Example--------------------------------------
+affect titties affecties
+Original Word:affectitties
+Output Word:affectitties
+End of Example--------------------------------------
+aquatic equilibrium aquilibrium
+Original Word:aqualibrium
+Output Word:aquibrium
+End of Example--------------------------------------
+revenge suicide revensuicide
+Original Word:revengicide
+Output Word:revuicide
+End of Example--------------------------------------
+scoop spatula scoopatula
+Original Word:scoopula
+Output Word:scatula
+End of Example--------------------------------------
+sex secretary secsecretary
+Original Word:sexcretary
+Output Word:sexecretary
+End of Example--------------------------------------
+thanksgiving hanukkah thanukkah
+Original Word:thanksgivukkah
+Output Word:thankukkah
+End of Example--------------------------------------
+alcohol bulimia alimia
+Original Word:alcoholimia
+Output Word:alimia
+End of Example--------------------------------------
+margarita retarded marded
+Original Word:margaritarded
+Output Word:marged
+End of Example--------------------------------------
+anecdote doubt anecdoubt
+Original Word:anecdoubt
+Output Word:anecdoubt
+End of Example--------------------------------------
+evacuation vacation evacation
+Original Word:evacucation
+Output Word:evation
+End of Example--------------------------------------
+fucking ugly fugly
+Original Word:fugly
+Output Word:fugly
+End of Example--------------------------------------
+glamour ritz glamouritz
+Original Word:glitz
+Output Word:glamouritz
+End of Example--------------------------------------
+multiple universe multiverse
+Original Word:multiverse
+Output Word:multiverse
+End of Example--------------------------------------
+emotion ebola emola
+Original Word:emola
+Output Word:emola
+End of Example--------------------------------------
+jack macintosh jacintosh
+Original Word:jackintosh
+Output Word:jackintosh
+End of Example--------------------------------------
+sophomore moronic sophomoronic
+Original Word:sophomoronic
+Output Word:sophoronic
+End of Example--------------------------------------
+smack mash smash
+Original Word:smash
+Output Word:smackh
+End of Example--------------------------------------
+thirsty hungry thungry
+Original Word:thangry
+Output Word:thungry
+End of Example--------------------------------------
+ear eyewitness eear
+Original Word:earwitness
+Output Word:earitness
+End of Example--------------------------------------
+pop fantasy pantasy
+Original Word:poptastic
+Output Word:poptasy
+End of Example--------------------------------------
+rolling index rollindex
+Original Word:rolodex
+Output Word:rollindex
+End of Example--------------------------------------
+naphthene palmitate nate
+Original Word:napalm
+Output Word:naphitate
+End of Example--------------------------------------
+shit farted shited
+Original Word:sharted
+Output Word:shitarted
+End of Example--------------------------------------
+amazon hanukkah amazonukkah
+Original Word:amazonukkah
+Output Word:amazukkah
+End of Example--------------------------------------
+fact acronym facronym
+Original Word:facronym
+Output Word:factronym
+End of Example--------------------------------------
+big anorexia bia
+Original Word:bigorexia
+Output Word:binorexia
+End of Example--------------------------------------
+obama economics obamics
+Original Word:obamanomics
+Output Word:obamamics
+End of Example--------------------------------------
+rebuke abuse rebuse
+Original Word:rebuse
+Output Word:rebukuse
+End of Example--------------------------------------
+buddha universe buniverse
+Original Word:buddhaverse
+Output Word:buddiverse
+End of Example--------------------------------------
+texture element telement
+Original Word:texel
+Output Word:texturement
+End of Example--------------------------------------
+crap capella crapella
+Original Word:crapella
+Output Word:crapella
+End of Example--------------------------------------
+annoying icon annon
+Original Word:annoyicon
+Output Word:annon
+End of Example--------------------------------------
+kaput poop kapoop
+Original Word:kapoop
+Output Word:koop
+End of Example--------------------------------------
+nerd orgy norgy
+Original Word:nerdgy
+Output Word:nergy
+End of Example--------------------------------------
+jardanup deeside jardeeside
+Original Word:jardee
+Output Word:jeeside
+End of Example--------------------------------------
+frankenstein food fod
+Original Word:frankenfood
+Output Word:frankeod
+End of Example--------------------------------------
+never referendum neverendum
+Original Word:neverendum
+Output Word:neverdum
+End of Example--------------------------------------
+boston washington boshington
+Original Word:boswash
+Output Word:boshington
+End of Example--------------------------------------
+web society wety
+Original Word:webciety
+Output Word:webiety
+End of Example--------------------------------------
+female dominance feminance
+Original Word:femdom
+Output Word:feminance
+End of Example--------------------------------------
+owl omaha owlaha
+Original Word:owlmaha
+Output Word:owlaha
+End of Example--------------------------------------
+anecdote dotage anecdotage
+Original Word:anecdotage
+Output Word:aneage
+End of Example--------------------------------------
+mac dictionary mactionary
+Original Word:mactionary
+Output Word:mactionary
+End of Example--------------------------------------
+misogyny noir misogynoir
+Original Word:misogynoir
+Output Word:misnoir
+End of Example--------------------------------------
+wave particle warticle
+Original Word:wavicle
+Output Word:waverticle
+End of Example--------------------------------------
+twitter hitler twitler
+Original Word:twitler
+Output Word:twitler
+End of Example--------------------------------------
+coxswain box coox
+Original Word:coxbox
+Output Word:coxswax
+End of Example--------------------------------------
+chair wardrobe chardrobe
+Original Word:chairdrobe
+Output Word:chairobe
+End of Example--------------------------------------
+walton mart wart
+Original Word:walmart
+Output Word:waltart
+End of Example--------------------------------------
+cinema maximum cinemaximum
+Original Word:cinemax
+Output Word:cinemaximum
+End of Example--------------------------------------
+chocolate taco chocolataco
+Original Word:chocotaco
+Output Word:chocolaco
+End of Example--------------------------------------
+spa boutique spoutique
+Original Word:spatique
+Output Word:sputique
+End of Example--------------------------------------
+ghost elevator gelevator
+Original Word:ghostvator
+Output Word:ghosevator
+End of Example--------------------------------------
+fun truncated funcated
+Original Word:funcated
+Output Word:funcated
+End of Example--------------------------------------
+napierian digit napit
+Original Word:nit
+Output Word:napit
+End of Example--------------------------------------
+relationship shit relationshit
+Original Word:relationshit
+Output Word:relatit
+End of Example--------------------------------------
+petroleum chemical pemical
+Original Word:petrochemical
+Output Word:petrolical
+End of Example--------------------------------------
+beard weirdo beardo
+Original Word:beardo
+Output Word:beirdo
+End of Example--------------------------------------
+adult adolescence adulescence
+Original Word:adultolescence
+Output Word:addolescence
+End of Example--------------------------------------
+dance circumsize dancircumsize
+Original Word:dancersize
+Output Word:dancemsize
+End of Example--------------------------------------
+lava acid lavacid
+Original Word:lavacid
+Output Word:lacid
+End of Example--------------------------------------
+glamour amazon glamazon
+Original Word:glamazon
+Output Word:glamon
+End of Example--------------------------------------
+electronic available elavailable
+Original Word:evailable
+Output Word:electronilable
+End of Example--------------------------------------
+flab abdomen flabdomen
+Original Word:flabdomen
+Output Word:flabdomen
+End of Example--------------------------------------
+hoe romance homance
+Original Word:homance
+Output Word:hoence
+End of Example--------------------------------------
+ambidextrous sex ambidextrousex
+Original Word:ambisextrous
+Output Word:ambidex
+End of Example--------------------------------------
+rove overload roverload
+Original Word:roverload
+Output Word:roverload
+End of Example--------------------------------------
+ethical dubious ethious
+Original Word:ethubious
+Output Word:ethubious
+End of Example--------------------------------------
+horrendous atrocious horrendatrocious
+Original Word:horrocious
+Output Word:horrendocious
+End of Example--------------------------------------
+reduction oxidation redation
+Original Word:redox
+Output Word:redution
+End of Example--------------------------------------
+slam ham slham
+Original Word:shlam
+Output Word:sham
+End of Example--------------------------------------
+malicious software maliciousoftware
+Original Word:malware
+Output Word:malicare
+End of Example--------------------------------------
+lesbian bro lesbro
+Original Word:lesbro
+Output Word:lesbro
+End of Example--------------------------------------
+britain return breturn
+Original Word:breturn
+Output Word:briturn
+End of Example--------------------------------------
+medical fraud medicaud
+Original Word:medifraud
+Output Word:medicaud
+End of Example--------------------------------------
+cable broadcast cast
+Original Word:cablecast
+Output Word:cableast
+End of Example--------------------------------------
+share software shareoftware
+Original Word:shareware
+Output Word:shareftware
+End of Example--------------------------------------
+art science arscience
+Original Word:artsci
+Output Word:artience
+End of Example--------------------------------------
+oreo realization orealization
+Original Word:oreolization
+Output Word:orealization
+End of Example--------------------------------------
+fact activist factivist
+Original Word:factivist
+Output Word:factivist
+End of Example--------------------------------------
+view browser vier
+Original Word:viewser
+Output Word:viowser
+End of Example--------------------------------------
+frau raubtier fraubtier
+Original Word:fraubtier
+Output Word:frautier
+End of Example--------------------------------------
+prototype hype protype
+Original Word:protohype
+Output Word:prote
+End of Example--------------------------------------
+cho harry charry
+Original Word:charry
+Output Word:choarry
+End of Example--------------------------------------
+documentary fiction doction
+Original Word:docufiction
+Output Word:documentaryiction
+End of Example--------------------------------------
+tanganiyaka zanzibar tanzibar
+Original Word:tanzania
+Output Word:tanzibar
+End of Example--------------------------------------
+jitter literati jiterati
+Original Word:jitterati
+Output Word:jiterati
+End of Example--------------------------------------
+coder decoder codecoder
+Original Word:codec
+Output Word:codecoder
+End of Example--------------------------------------
+book instagram bookram
+Original Word:bookstagram
+Output Word:bookstagram
+End of Example--------------------------------------
+bree lynette blynette
+Original Word:brynette
+Output Word:brenette
+End of Example--------------------------------------
+flash backpacking flacking
+Original Word:flashpacking
+Output Word:flacking
+End of Example--------------------------------------
+professional consumer professionsumer
+Original Word:prosumer
+Output Word:profer
+End of Example--------------------------------------
+amethyst citrine amethystrine
+Original Word:ametrine
+Output Word:ametrine
+End of Example--------------------------------------
+microcomputer software microftware
+Original Word:microsoft
+Output Word:microtware
+End of Example--------------------------------------
+admiration empathy admpathy
+Original Word:admirampathy
+Output Word:admithy
+End of Example--------------------------------------
+excited constipated econstipated
+Original Word:excitipated
+Output Word:excipated
+End of Example--------------------------------------
+lap popcorn lapopcorn
+Original Word:lapcorn
+Output Word:lapcorn
+End of Example--------------------------------------
+japanese animation japanimation
+Original Word:japanimation
+Output Word:japimation
+End of Example--------------------------------------
+password confusion passwonfusion
+Original Word:passfusion
+Output Word:passion
+End of Example--------------------------------------
+foreman thirteen foremateen
+Original Word:foreteen
+Output Word:foreen
+End of Example--------------------------------------
+vomit bomb vomb
+Original Word:vombomb
+Output Word:vomimb
+End of Example--------------------------------------
+irony erroneous ironeous
+Original Word:ironeous
+Output Word:irroneous
+End of Example--------------------------------------
+man unicorn manicorn
+Original Word:manicorn
+Output Word:manicorn
+End of Example--------------------------------------
+jerk irksome jerksome
+Original Word:jerksome
+Output Word:jerksome
+End of Example--------------------------------------
+radiation opaque radopaque
+Original Word:radiopaque
+Output Word:radiaque
+End of Example--------------------------------------
+meh mathematician matician
+Original Word:mehthematician
+Output Word:mematician
+End of Example--------------------------------------
+scream caterpillar scaterpillar
+Original Word:screamapillar
+Output Word:screamillar
+End of Example--------------------------------------
+slut whore slhore
+Original Word:slore
+Output Word:slore
+End of Example--------------------------------------
+motorized bicycle motoricycle
+Original Word:motorcycle
+Output Word:mocle
+End of Example--------------------------------------
+transparency fare tre
+Original Word:transfarency
+Output Word:transfare
+End of Example--------------------------------------
+facebook stalk fastalk
+Original Word:falk
+Output Word:facebk
+End of Example--------------------------------------
+oblivious idiot obliviot
+Original Word:obliviot
+Output Word:obliot
+End of Example--------------------------------------
+adjunct junk adjunk
+Original Word:adjunk
+Output Word:adjunk
+End of Example--------------------------------------
+fun orgasm fasm
+Original Word:fungasm
+Output Word:forgasm
+End of Example--------------------------------------
+absolutely positively absositively
+Original Word:absatively
+Output Word:abtively
+End of Example--------------------------------------
+cybernetics organism cybernism
+Original Word:cyborg
+Output Word:cyborganism
+End of Example--------------------------------------
+blacks exploitation bloitation
+Original Word:blaxploitation
+Output Word:blaxploitation
+End of Example--------------------------------------
+kanwaka wakarusa kanwakarusa
+Original Word:kanwaka
+Output Word:kanwarusa
+End of Example--------------------------------------
+talk cartoon talcartoon
+Original Word:talkartoon
+Output Word:talkcartoon
+End of Example--------------------------------------
+ear orgasm eargasm
+Original Word:eargasm
+Output Word:eargasm
+End of Example--------------------------------------
+fake sushi fushi
+Original Word:fushi
+Output Word:fakeshi
+End of Example--------------------------------------
+word wardrobe wordrobe
+Original Word:wordrobe
+Output Word:wordrobe
+End of Example--------------------------------------
+piss mishap pishap
+Original Word:pisshap
+Output Word:pishap
+End of Example--------------------------------------
+airplane pain airpain
+Original Word:airpain
+Output Word:airplain
+End of Example--------------------------------------
+automobile utopia autopia
+Original Word:autopia
+Output Word:autopia
+End of Example--------------------------------------
+parallax second parallaxsecond
+Original Word:parsec
+Output Word:pecond
+End of Example--------------------------------------
+video democracy videmocracy
+Original Word:videocracy
+Output Word:videmocracy
+End of Example--------------------------------------
+endogenous morphine enorphine
+Original Word:endorphin
+Output Word:endorphine
+End of Example--------------------------------------
+distract retard distretard
+Original Word:distractard
+Output Word:distractard
+End of Example--------------------------------------
+computer confusion compusion
+Original Word:compfusion
+Output Word:compusion
+End of Example--------------------------------------
+malnutrition tuition malnutuition
+Original Word:maltuition
+Output Word:maltuition
+End of Example--------------------------------------
+hate pathos hathos
+Original Word:hathos
+Output Word:hathos
+End of Example--------------------------------------
+thot socrates thocrates
+Original Word:thotcrates
+Output Word:thocrates
+End of Example--------------------------------------
+sea landscape scape
+Original Word:seascape
+Output Word:seandscape
+End of Example--------------------------------------
+procrastination crest procrest
+Original Word:precrestination
+Output Word:procrast
+End of Example--------------------------------------
+lol holocaust lolocaust
+Original Word:lolocaust
+Output Word:lolocaust
+End of Example--------------------------------------
+phone neck phoneck
+Original Word:phoneck
+Output Word:phoneck
+End of Example--------------------------------------
+bozo ozone bozone
+Original Word:bozone
+Output Word:bozone
+End of Example--------------------------------------
+ambitious bitch ambitch
+Original Word:ambitchous
+Output Word:ambitch
+End of Example--------------------------------------
+female android femandroid
+Original Word:feminoid
+Output Word:femdroid
+End of Example--------------------------------------
+medical healthcare medicare
+Original Word:medicare
+Output Word:mealthcare
+End of Example--------------------------------------
+facebook facelift ft
+Original Word:facebooklift
+Output Word:facebift
+End of Example--------------------------------------
+drunk munchies drunchies
+Original Word:drunchies
+Output Word:drunkunchies
+End of Example--------------------------------------
+green whitewash greenwash
+Original Word:greenwash
+Output Word:greenash
+End of Example--------------------------------------
+fucking drunk funk
+Original Word:fucrunk
+Output Word:fuckink
+End of Example--------------------------------------
+mobile weblog moblog
+Original Word:moblog
+Output Word:moblog
+End of Example--------------------------------------
+negro negotiation negrotiation
+Original Word:negrotiation
+Output Word:negregotiation
+End of Example--------------------------------------
+tweet sweetheart tweetheart
+Original Word:tweetheart
+Output Word:tweetheart
+End of Example--------------------------------------
+course software coursoftware
+Original Word:courseware
+Output Word:coursware
+End of Example--------------------------------------
+magnesium ferric magnesic
+Original Word:mafic
+Output Word:magnerric
+End of Example--------------------------------------
+proactive responsive presponsive
+Original Word:pronsponsive
+Output Word:pronsive
+End of Example--------------------------------------
+skin intimidate skintimidate
+Original Word:skintimidate
+Output Word:skinte
+End of Example--------------------------------------
+sarcasm chasm sarchasm
+Original Word:sarchasm
+Output Word:sarchasm
+End of Example--------------------------------------
+whine rhino whino
+Original Word:whino
+Output Word:wino
+End of Example--------------------------------------
+volumetric pixel volumetrixel
+Original Word:voxel
+Output Word:voixel
+End of Example--------------------------------------
+newt momentum nentum
+Original Word:newtmentum
+Output Word:newtentum
+End of Example--------------------------------------
+cash castration cation
+Original Word:cashtration
+Output Word:casstration
+End of Example--------------------------------------
+woman romance womance
+Original Word:womance
+Output Word:womance
+End of Example--------------------------------------
+bard idolatry bardolatry
+Original Word:bardolatry
+Output Word:bardidolatry
+End of Example--------------------------------------
+calcium gone calciugone
+Original Word:calgon
+Output Word:calcine
+End of Example--------------------------------------
+shark octopus shoctopus
+Original Word:sharktopus
+Output Word:sharkopus
+End of Example--------------------------------------
+procastination productivity proctivity
+Original Word:procastivity
+Output Word:proctivity
+End of Example--------------------------------------
+singapore english singlish
+Original Word:singlish
+Output Word:singlish
+End of Example--------------------------------------
+prom proposal pproposal
+Original Word:promposal
+Output Word:promosal
+End of Example--------------------------------------
+cat mouse mmouse
+Original Word:meowse
+Output Word:catse
+End of Example--------------------------------------
+deformed afflicted dafflicted
+Original Word:deflicted
+Output Word:deformicted
+End of Example--------------------------------------
+maddening infuriating maddeninfuriating
+Original Word:maddenating
+Output Word:maddeniating
+End of Example--------------------------------------
+pass asshole passhole
+Original Word:passhole
+Output Word:passhole
+End of Example--------------------------------------
+insinuation innuendo insinuendo
+Original Word:insinuendo
+Output Word:insinnuendo
+End of Example--------------------------------------
+subliminal tweet twet
+Original Word:subtweet
+Output Word:sublimet
+End of Example--------------------------------------
+stupid studious stupidious
+Original Word:stupious
+Output Word:stupious
+End of Example--------------------------------------
+chin underwear chinderwear
+Original Word:chinderwear
+Output Word:chinderwear
+End of Example--------------------------------------
+accountable cunt accunt
+Original Word:accuntable
+Output Word:account
+End of Example--------------------------------------
+sofa ass sofass
+Original Word:sofass
+Output Word:sofass
+End of Example--------------------------------------
+condensation trail condensail
+Original Word:contrail
+Output Word:condeil
+End of Example--------------------------------------
+robert kristen roben
+Original Word:robsten
+Output Word:roberten
+End of Example--------------------------------------
+family computer famputer
+Original Word:famicom
+Output Word:famiputer
+End of Example--------------------------------------
+naruto retard narutard
+Original Word:narutard
+Output Word:narutotard
+End of Example--------------------------------------
+texas exodus texodus
+Original Word:texodus
+Output Word:texodus
+End of Example--------------------------------------
+advertisement blasting adverting
+Original Word:advertblasting
+Output Word:adverting
+End of Example--------------------------------------
+frankenstein word franword
+Original Word:frankenword
+Output Word:frankeord
+End of Example--------------------------------------
+spokesperson blogger sper
+Original Word:spokesblogger
+Output Word:spogger
+End of Example--------------------------------------
+declarative exclamatory declamatory
+Original Word:declamatory
+Output Word:decmatory
+End of Example--------------------------------------
+slut president slupresident
+Original Word:slutsident
+Output Word:slutsident
+End of Example--------------------------------------
+volunteer town voluntown
+Original Word:voluntown
+Output Word:vown
+End of Example--------------------------------------
+sex accident saccident
+Original Word:sexcident
+Output Word:sexccident
+End of Example--------------------------------------
+ninja injun ninjun
+Original Word:ninjun
+Output Word:ninjun
+End of Example--------------------------------------
+offensive sieve offensieve
+Original Word:offensieve
+Output Word:ofsieve
+End of Example--------------------------------------
+retard dumbass retardumbass
+Original Word:tardass
+Output Word:retardumbass
+End of Example--------------------------------------
+oblivious android obliviandroid
+Original Word:oblividroid
+Output Word:oblidroid
+End of Example--------------------------------------
+list article licle
+Original Word:listicle
+Output Word:licle
+End of Example--------------------------------------
+analyst therapist aanalyst
+Original Word:analrapist
+Output Word:analysapist
+End of Example--------------------------------------
+cheap cappucciono cheappucciono
+Original Word:cheappuccino
+Output Word:cheappucciono
+End of Example--------------------------------------
+smudge estimate smate
+Original Word:smudgemate
+Output Word:smudgestimate
+End of Example--------------------------------------
+spam robot spot
+Original Word:spambot
+Output Word:sprobot
+End of Example--------------------------------------
+helicopter skiing heliing
+Original Word:heliskiing
+Output Word:helicing
+End of Example--------------------------------------
+global local glocal
+Original Word:glocal
+Output Word:glocal
+End of Example--------------------------------------
+governor terminator goverminator
+Original Word:governator
+Output Word:goverminator
+End of Example--------------------------------------
+phone frustrated frated
+Original Word:phonestrated
+Output Word:phoned
+End of Example--------------------------------------
+jagermeister bomb jabomb
+Original Word:jagerbomb
+Output Word:jomb
+End of Example--------------------------------------
+google amazon googamazon
+Original Word:googlezon
+Output Word:googlazon
+End of Example--------------------------------------
+blog book blobook
+Original Word:blook
+Output Word:blook
+End of Example--------------------------------------
+bark parkour barkour
+Original Word:barkour
+Output Word:barkour
+End of Example--------------------------------------
+terra terrorist terorist
+Original Word:terrist
+Output Word:terrrorist
+End of Example--------------------------------------
+fruit atomic fruitomic
+Original Word:fruitomic
+Output Word:fruitomic
+End of Example--------------------------------------
+homosexual comintern homintern
+Original Word:homintern
+Output Word:homintern
+End of Example--------------------------------------
+automotive atrocity automotrocity
+Original Word:autotrocity
+Output Word:automocity
+End of Example--------------------------------------
+internet citizen internetizen
+Original Word:netizen
+Output Word:internetizen
+End of Example--------------------------------------
+chopstick fork chork
+Original Word:chork
+Output Word:chopsticork
+End of Example--------------------------------------
+night netflix nightflix
+Original Word:niteflix
+Output Word:nigetflix
+End of Example--------------------------------------
+excuse squeeze excueeze
+Original Word:exsqueeze
+Output Word:excueeze
+End of Example--------------------------------------
+yank handshake yandshake
+Original Word:yankshake
+Output Word:yankshake
+End of Example--------------------------------------
+wireless fidelity wirelity
+Original Word:wifi
+Output Word:widelity
+End of Example--------------------------------------
+chest testicle chesticle
+Original Word:chesticle
+Output Word:chesticle
+End of Example--------------------------------------
+afghanistan pakistan afghanistanistan
+Original Word:afpak
+Output Word:afistan
+End of Example--------------------------------------
+fabulous sexual fabulousexual
+Original Word:fabulosexual
+Output Word:fabuloxual
+End of Example--------------------------------------
+tactical turtleneck tacturtleneck
+Original Word:tactleneck
+Output Word:tactineck
+End of Example--------------------------------------
+but actually bactually
+Original Word:bactually
+Output Word:buttually
+End of Example--------------------------------------
+imagine engineering imagineering
+Original Word:imagineering
+Output Word:imagineering
+End of Example--------------------------------------
+alternative right alteright
+Original Word:altright
+Output Word:alternatight
+End of Example--------------------------------------
+cable telegram cablegram
+Original Word:cablegram
+Output Word:cablegram
+End of Example--------------------------------------
+kiss caress kicaress
+Original Word:kissess
+Output Word:kisscaress
+End of Example--------------------------------------
+murky marketing murketing
+Original Word:murketing
+Output Word:murketing
+End of Example--------------------------------------
+fun animation fanimation
+Original Word:funimation
+Output Word:funimation
+End of Example--------------------------------------
+script document scument
+Original Word:scriptment
+Output Word:scripent
+End of Example--------------------------------------
+financial pinnacle finnacle
+Original Word:finacle
+Output Word:finnacle
+End of Example--------------------------------------
+facebook hack fack
+Original Word:facehack
+Output Word:fack
+End of Example--------------------------------------
+phonetics lexicon phoneticon
+Original Word:phonicon
+Output Word:phonexicon
+End of Example--------------------------------------
+jesus centric jesucentric
+Original Word:jesucentric
+Output Word:jentric
+End of Example--------------------------------------
+pirate attitude pirattitude
+Original Word:pirattitude
+Output Word:pitude
+End of Example--------------------------------------
+bash hashtag bashtag
+Original Word:bashtag
+Output Word:bashtag
+End of Example--------------------------------------
+light radar lradar
+Original Word:lidar
+Output Word:ligar
+End of Example--------------------------------------
+chilling relaxing ching
+Original Word:chillaxing
+Output Word:chillaxing
+End of Example--------------------------------------
+liberal retard liberetard
+Original Word:libtard
+Output Word:libetard
+End of Example--------------------------------------
+gay addiction gaddiction
+Original Word:gaddiction
+Output Word:gaydiction
+End of Example--------------------------------------
+kate ziva kiva
+Original Word:kiva
+Output Word:kateiva
+End of Example--------------------------------------
+hunger angry hungry
+Original Word:hangry
+Output Word:hungery
+End of Example--------------------------------------
+cuckold conservative cuconservative
+Original Word:cuckservative
+Output Word:cuckervative
+End of Example--------------------------------------
+miller lux milux
+Original Word:millux
+Output Word:millex
+End of Example--------------------------------------
+provocative whore pre
+Original Word:provacawhoritive
+Output Word:provocatire
+End of Example--------------------------------------
+hater gatorade hatorade
+Original Word:hatorade
+Output Word:haterade
+End of Example--------------------------------------
+fanatic kingdom fanatingdom
+Original Word:fandom
+Output Word:fanatingdom
+End of Example--------------------------------------
+television broadcast televist
+Original Word:telecast
+Output Word:televcast
+End of Example--------------------------------------
+literature sewer liture
+Original Word:literasewer
+Output Word:literewer
+End of Example--------------------------------------
+monte rey montey
+Original Word:monterey
+Output Word:montey
+End of Example--------------------------------------
+glamorous camping glamping
+Original Word:glamping
+Output Word:glamping
+End of Example--------------------------------------
+advertisement entertainment advertainment
+Original Word:advertainment
+Output Word:advertainment
+End of Example--------------------------------------
+dormitory incest dormincest
+Original Word:dormcest
+Output Word:dormincest
+End of Example--------------------------------------
+scarborough siberia scaria
+Original Word:scarberia
+Output Word:scarberia
+End of Example--------------------------------------
+botulism toxin boxin
+Original Word:botox
+Output Word:boxin
+End of Example--------------------------------------
+slut sorority sluty
+Original Word:slurority
+Output Word:slurity
+End of Example--------------------------------------
+smile silence smilence
+Original Word:smilence
+Output Word:smilence
+End of Example--------------------------------------
+hellish hallway hellway
+Original Word:hellway
+Output Word:hellway
+End of Example--------------------------------------
+beat beetles beatles
+Original Word:beatles
+Output Word:beeetles
+End of Example--------------------------------------
+defensive diss defensiss
+Original Word:dissfensive
+Output Word:defensivs
+End of Example--------------------------------------
+pocket monster ponster
+Original Word:pokemon
+Output Word:pocker
+End of Example--------------------------------------
+ska hardcore skardcore
+Original Word:skacore
+Output Word:skardcore
+End of Example--------------------------------------
+alphabetic numeric alphaberic
+Original Word:alphanumeric
+Output Word:alperic
+End of Example--------------------------------------
+blog celebrity blebrity
+Original Word:blogebitry
+Output Word:blelebrity
+End of Example--------------------------------------
+obama mania obamania
+Original Word:obamania
+Output Word:obania
+End of Example--------------------------------------
+documentary soap ssoap
+Original Word:docusoap
+Output Word:documeap
+End of Example--------------------------------------
+fantastic orgasmic fantasmic
+Original Word:fantasmic
+Output Word:fantasmic
+End of Example--------------------------------------
+aforementioned texted aforemed
+Original Word:aforetexted
+Output Word:afoxted
+End of Example--------------------------------------
+pray playstation praystation
+Original Word:praystation
+Output Word:praystation
+End of Example--------------------------------------
+hibernate dating hibernating
+Original Word:hiberdating
+Output Word:hibernating
+End of Example--------------------------------------
+cream popsicle cpopsicle
+Original Word:creamsicle
+Output Word:creamsicle
+End of Example--------------------------------------
+veep sweepstakes veepstakes
+Original Word:veepstakes
+Output Word:veepstakes
+End of Example--------------------------------------
+blog pilates blates
+Original Word:blogilates
+Output Word:blates
+End of Example--------------------------------------
+nigger piglet niglet
+Original Word:nigglet
+Output Word:nigglet
+End of Example--------------------------------------
+cosmos organism cosmosm
+Original Word:cosmonism
+Output Word:cosganism
+End of Example--------------------------------------
+methyl alcohol malcohol
+Original Word:methanol
+Output Word:methohol
+End of Example--------------------------------------
+dangerous hazardous dangerdous
+Original Word:dazardous
+Output Word:dangerdous
+End of Example--------------------------------------
+lebron wannabe lebronnabe
+Original Word:lebronnabe
+Output Word:lebrabe
+End of Example--------------------------------------
+quantum bit quantumbit
+Original Word:qubit
+Output Word:quantumit
+End of Example--------------------------------------
+chronology optimist chronoptimist
+Original Word:chronoptimist
+Output Word:chronoltimist
+End of Example--------------------------------------
+proteinaceous infectious proteinfectious
+Original Word:prion
+Output Word:prinfectious
+End of Example--------------------------------------
+phone conundrum phonundrum
+Original Word:phonundrum
+Output Word:phonum
+End of Example--------------------------------------
+navajo hunky navunky
+Original Word:navahonky
+Output Word:navanky
+End of Example--------------------------------------
+system administrator systrator
+Original Word:sysadmin
+Output Word:systrator
+End of Example--------------------------------------
+static satellite statellite
+Original Word:statite
+Output Word:statellite
+End of Example--------------------------------------
+fairfield osborn fairn
+Original Word:fairborn
+Output Word:fairforn
+End of Example--------------------------------------
+maybe perhaps mayberhaps
+Original Word:mayhaps
+Output Word:mayperhaps
+End of Example--------------------------------------
+formal casual formasual
+Original Word:formasual
+Output Word:formaal
+End of Example--------------------------------------
+pegasus unicorn pegasunicorn
+Original Word:pegacorn
+Output Word:pegicorn
+End of Example--------------------------------------
+biological pioneer bioneer
+Original Word:bioneer
+Output Word:bioneer
+End of Example--------------------------------------
+winning company winy
+Original Word:winco
+Output Word:winny
+End of Example--------------------------------------
+smoke maze smaze
+Original Word:smaze
+Output Word:smaze
+End of Example--------------------------------------
+nifty fabulous nifabulous
+Original Word:niftabulous
+Output Word:nifulous
+End of Example--------------------------------------
+seattle tacoma seatacoma
+Original Word:seatac
+Output Word:seattacoma
+End of Example--------------------------------------
+monster asteroid monsteroid
+Original Word:monsteroid
+Output Word:monsteroid
+End of Example--------------------------------------
+communication broadcast communicast
+Original Word:comcast
+Output Word:communcast
+End of Example--------------------------------------
+elevator vision elevision
+Original Word:elevision
+Output Word:elevation
+End of Example--------------------------------------
+banquet dance bance
+Original Word:banquance
+Output Word:banqe
+End of Example--------------------------------------
+midnight martini midnightini
+Original Word:midnitini
+Output Word:mimartini
+End of Example--------------------------------------
+uber fantastic ubic
+Original Word:ubertastic
+Output Word:uberstic
+End of Example--------------------------------------
+glial lymphatic glymphatic
+Original Word:glymphatic
+Output Word:glymphatic
+End of Example--------------------------------------
+kid video kideo
+Original Word:kidvid
+Output Word:kideo
+End of Example--------------------------------------
+parent paranoia parenoia
+Original Word:parentnoia
+Output Word:parenoia
+End of Example--------------------------------------
+type hyperventilate typerventilate
+Original Word:typerventilate
+Output Word:typerventilate
+End of Example--------------------------------------
+metro homosexual metromosexual
+Original Word:metrosexual
+Output Word:metrexual
+End of Example--------------------------------------
+pellet resistor pellesistor
+Original Word:pellistor
+Output Word:pelletistor
+End of Example--------------------------------------
+commute comminicate cominicate
+Original Word:commuticate
+Output Word:commicate
+End of Example--------------------------------------
+bare kareoke bareoke
+Original Word:bareoke
+Output Word:bareoke
+End of Example--------------------------------------
+man panther manther
+Original Word:manther
+Output Word:manther
+End of Example--------------------------------------
+conservative democrats conservats
+Original Word:condem
+Output Word:consemocrats
+End of Example--------------------------------------
+hiccup burp hicup
+Original Word:hiccurp
+Output Word:hicurp
+End of Example--------------------------------------
+ad infested ainfested
+Original Word:adfested
+Output Word:aded
+End of Example--------------------------------------
+after morning afterning
+Original Word:aftorning
+Output Word:afterning
+End of Example--------------------------------------
+moon landscape moondscape
+Original Word:moonscape
+Output Word:moondscape
+End of Example--------------------------------------
+awkward sauce awkwarsauce
+Original Word:awksauce
+Output Word:awkwauce
+End of Example--------------------------------------
+biography picture bicture
+Original Word:biopic
+Output Word:bicture
+End of Example--------------------------------------
+nose ostracize nostracize
+Original Word:nostracize
+Output Word:nostracize
+End of Example--------------------------------------
+every time evere
+Original Word:errtime
+Output Word:evime
+End of Example--------------------------------------
+penn engineer pengineer
+Original Word:penngineer
+Output Word:pengineer
+End of Example--------------------------------------
+net convertible netible
+Original Word:netvertible
+Output Word:netible
+End of Example--------------------------------------
+fake rolex fakex
+Original Word:folex
+Output Word:fakex
+End of Example--------------------------------------
+noun adjective noudjective
+Original Word:nounjective
+Output Word:nounjective
+End of Example--------------------------------------
+jihad hobbyist jihobbyist
+Original Word:jihobbyist
+Output Word:jobbyist
+End of Example--------------------------------------
+ramen woman raman
+Original Word:rawoman
+Output Word:raman
+End of Example--------------------------------------
+pug beagle pugle
+Original Word:puggle
+Output Word:peagle
+End of Example--------------------------------------
+brother science brothence
+Original Word:broscience
+Output Word:brothence
+End of Example--------------------------------------
+celebrity debutante celebutante
+Original Word:celebutante
+Output Word:celebrite
+End of Example--------------------------------------
+knife fork knifork
+Original Word:knork
+Output Word:knifork
+End of Example--------------------------------------
+alpha beta aalpha
+Original Word:alphabet
+Output Word:alpeta
+End of Example--------------------------------------
+hormone emotion hormotion
+Original Word:hormotion
+Output Word:hormotion
+End of Example--------------------------------------
+electronic mail elel
+Original Word:email
+Output Word:electronicl
+End of Example--------------------------------------
+pregnancy amnesia pregnesia
+Original Word:pregnesia
+Output Word:pregnesia
+End of Example--------------------------------------
+masturbate wait mate
+Original Word:masturwait
+Output Word:masturbait
+End of Example--------------------------------------
+spam blogger spamblogger
+Original Word:splogger
+Output Word:splogger
+End of Example--------------------------------------
+spirit commitment spiritment
+Original Word:spirmitment
+Output Word:spirment
+End of Example--------------------------------------
+press prostitute prestitute
+Original Word:presstitute
+Output Word:prestitute
+End of Example--------------------------------------
+near orgasm neargasm
+Original Word:neargasm
+Output Word:neargasm
+End of Example--------------------------------------
+anime matrix animatrix
+Original Word:animatrix
+Output Word:animatrix
+End of Example--------------------------------------
+permanent agriculture permagriculture
+Original Word:permaculture
+Output Word:permiculture
+End of Example--------------------------------------
+chuckle snort chuort
+Original Word:chortle
+Output Word:chucklort
+End of Example--------------------------------------
+china india chindia
+Original Word:chindia
+Output Word:chinadia
+End of Example--------------------------------------
+refute repudiate refudiate
+Original Word:refudiate
+Output Word:refudiate
+End of Example--------------------------------------
+ecology sabotage ecolotage
+Original Word:ecotage
+Output Word:ecbotage
+End of Example--------------------------------------
+best worst borst
+Original Word:blurst
+Output Word:bestt
+End of Example--------------------------------------
+internal communication internication
+Original Word:intercom
+Output Word:internation
+End of Example--------------------------------------
+folks taxonomy fonomy
+Original Word:folksonomy
+Output Word:folksonomy
+End of Example--------------------------------------
+beat sputnik beatnik
+Original Word:beatnik
+Output Word:beatutnik
+End of Example--------------------------------------
+brand wagon bragon
+Original Word:brandwagon
+Output Word:brandon
+End of Example--------------------------------------
+hetero jetlagged hetlagged
+Original Word:hetlagged
+Output Word:hetlagged
+End of Example--------------------------------------
+ridiculous monstrosity rity
+Original Word:ridiculosity
+Output Word:ridosity
+End of Example--------------------------------------
+man vagina mana
+Original Word:mangina
+Output Word:manina
+End of Example--------------------------------------
+tampa miami tami
+Original Word:tamiami
+Output Word:tampiami
+End of Example--------------------------------------
+korean pop kop
+Original Word:kpop
+Output Word:koop
+End of Example--------------------------------------
+data surveillance datance
+Original Word:dataveillance
+Output Word:durveillance
+End of Example--------------------------------------
+food baby fod
+Original Word:faby
+Output Word:foody
+End of Example--------------------------------------
+camera recorder camerecorder
+Original Word:camcorder
+Output Word:camecorder
+End of Example--------------------------------------
+snow armageddon snon
+Original Word:snowmageddon
+Output Word:snowdon
+End of Example--------------------------------------
+aurium lactate alactate
+Original Word:aurictate
+Output Word:auriumactate
+End of Example--------------------------------------
+app obsessed obsesed
+Original Word:appsessed
+Output Word:appsed
+End of Example--------------------------------------
+conglomerate coffee congloffee
+Original Word:conglomocoffee
+Output Word:conglee
+End of Example--------------------------------------
+chair aerobics chaerobics
+Original Word:chairobics
+Output Word:chairobics
+End of Example--------------------------------------
+accountability buddy accounty
+Original Word:accountabilibuddy
+Output Word:accountabily
+End of Example--------------------------------------
+fabulous eyelash fabulash
+Original Word:fabulash
+Output Word:fabulolash
+End of Example--------------------------------------
+awesome amazing awesomazing
+Original Word:awesmazing
+Output Word:awemazing
+End of Example--------------------------------------
+doppelgangers bang dopelgang
+Original Word:doppelbangers
+Output Word:doppeng
+End of Example--------------------------------------
+kill bulldozer killdozer
+Original Word:killdozer
+Output Word:killozer
+End of Example--------------------------------------
+bill hillary billary
+Original Word:billary
+Output Word:billary
+End of Example--------------------------------------
+intelligent television intelevision
+Original Word:intellivision
+Output Word:intelevision
+End of Example--------------------------------------
+fudge popsicle fopsicle
+Original Word:fudgsicle
+Output Word:fudgee
+End of Example--------------------------------------
+games brainstorming gamestorming
+Original Word:gamestorming
+Output Word:gamerming
+End of Example--------------------------------------
+guitar arthritis guitarthritis
+Original Word:guitarthritis
+Output Word:guithritis
+End of Example--------------------------------------
+global obesity globesity
+Original Word:globesity
+Output Word:globesity
+End of Example--------------------------------------
+delaware rancocas delawarancocas
+Original Word:delran
+Output Word:delancocas
+End of Example--------------------------------------
+backwards ass bass
+Original Word:bassackwards
+Output Word:backwars
+End of Example--------------------------------------
+fake insta finsta
+Original Word:finsta
+Output Word:fakea
+End of Example--------------------------------------
+prim sissy prissy
+Original Word:prissy
+Output Word:primsy
+End of Example--------------------------------------
+japan animation japanimation
+Original Word:japanimation
+Output Word:janimation
+End of Example--------------------------------------
+romo momentum romentum
+Original Word:romomentum
+Output Word:romentum
+End of Example--------------------------------------
+explore pornography explornography
+Original Word:explornography
+Output Word:expornography
+End of Example--------------------------------------
+adorable precious adorecious
+Original Word:adorapresh
+Output Word:adorecious
+End of Example--------------------------------------
+micro college micollege
+Original Word:microllege
+Output Word:miclege
+End of Example--------------------------------------
+balloon fanatics banatics
+Original Word:balloonatics
+Output Word:balloonatics
+End of Example--------------------------------------
+motor cavalcade motcade
+Original Word:motorcade
+Output Word:mote
+End of Example--------------------------------------
+quasistellar star quasistar
+Original Word:quasar
+Output Word:quastar
+End of Example--------------------------------------
+mexican nigger mexicanigger
+Original Word:mexinigger
+Output Word:mexigger
+End of Example--------------------------------------
+destiny amnesia destinesia
+Original Word:destinesia
+Output Word:destia
+End of Example--------------------------------------
+disposal phobia dispobia
+Original Word:disposophobia
+Output Word:disphobia
+End of Example--------------------------------------
+precarious proletariat precariat
+Original Word:precariat
+Output Word:preletariat
+End of Example--------------------------------------
+electronic magazine electronine
+Original Word:ezine
+Output Word:electronazine
+End of Example--------------------------------------
+lebron bum lebum
+Original Word:lebum
+Output Word:lebrum
+End of Example--------------------------------------
+islamic fascist islascist
+Original Word:islamofascist
+Output Word:islamict
+End of Example--------------------------------------
+fan magazine fagazine
+Original Word:fanzine
+Output Word:fanazine
+End of Example--------------------------------------
+magnetic doodle magndoodle
+Original Word:magnadoodle
+Output Word:magneodle
+End of Example--------------------------------------
+clap apathy clapathy
+Original Word:clapathy
+Output Word:clapathy
+End of Example--------------------------------------
+facebook brag facebrag
+Original Word:facebrag
+Output Word:facebrag
+End of Example--------------------------------------
+swoosh swastika sswastika
+Original Word:swooshtika
+Output Word:swoostika
+End of Example--------------------------------------
+incognito negro incognegro
+Original Word:incognegro
+Output Word:inegro
+End of Example--------------------------------------
+fact ficticious facticious
+Original Word:factitious
+Output Word:facticious
+End of Example--------------------------------------
+triple biscuit triscuit
+Original Word:triscuit
+Output Word:tripleit
+End of Example--------------------------------------
+jingle dangle djingle
+Original Word:jangle
+Output Word:jinglle
+End of Example--------------------------------------
+russian english russianglish
+Original Word:russlish
+Output Word:russinglish
+End of Example--------------------------------------
+rocknroll hillybilly rollybilly
+Original Word:rockabilly
+Output Word:rocknrollybilly
+End of Example--------------------------------------
+facebook rape fape
+Original Word:frape
+Output Word:facebe
+End of Example--------------------------------------
+man tantrum mantrum
+Original Word:mantrum
+Output Word:mantrum
+End of Example--------------------------------------
+bride godzilla bridzilla
+Original Word:bridezilla
+Output Word:brilla
+End of Example--------------------------------------
+beep epilepsy beepilepsy
+Original Word:beepilepsy
+Output Word:beepilepsy
+End of Example--------------------------------------
+instrumental medley instrumedley
+Original Word:instrumedley
+Output Word:instrumedley
+End of Example--------------------------------------
+twilight night twight
+Original Word:twinight
+Output Word:twight
+End of Example--------------------------------------
+consolidated rail consolidail
+Original Word:conrail
+Output Word:consail
+End of Example--------------------------------------
+view humongous vhumongous
+Original Word:viewmongous
+Output Word:vingous
+End of Example--------------------------------------
+later instagram latagram
+Original Word:latergram
+Output Word:latergram
+End of Example--------------------------------------
+nerd hijacking nhing
+Original Word:nerdjacking
+Output Word:nerding
+End of Example--------------------------------------
+news broadcast newst
+Original Word:newscast
+Output Word:newcast
+End of Example--------------------------------------
+kiss virginity kinity
+Original Word:kirginity
+Output Word:kinity
+End of Example--------------------------------------
+bad radical badical
+Original Word:badical
+Output Word:badical
+End of Example--------------------------------------
+neverending referendum neverendum
+Original Word:neverendum
+Output Word:neverdum
+End of Example--------------------------------------
+cellphone selfish celfish
+Original Word:cellfish
+Output Word:cellish
+End of Example--------------------------------------
+microwave wait microwait
+Original Word:microwait
+Output Word:microwait
+End of Example--------------------------------------
+dad adventure dadventure
+Original Word:dadventure
+Output Word:dadventure
+End of Example--------------------------------------
+maltese poodle malpoodle
+Original Word:maltipoo
+Output Word:malte
+End of Example--------------------------------------
+heterosexual normativity hetivity
+Original Word:heteronormativity
+Output Word:hetivity
+End of Example--------------------------------------
+female bro fembro
+Original Word:febro
+Output Word:femo
+End of Example--------------------------------------
+british comedy bricomedy
+Original Word:britcom
+Output Word:britedy
+End of Example--------------------------------------
+california saratoga califoratoga
+Original Word:calistoga
+Output Word:califatoga
+End of Example--------------------------------------
+plant animal planimal
+Original Word:planimal
+Output Word:planimal
+End of Example--------------------------------------
+residue drool residrool
+Original Word:residrool
+Output Word:resiool
+End of Example--------------------------------------
+weasley incest wincest
+Original Word:weasleycest
+Output Word:weast
+End of Example--------------------------------------
+engaged gay engay
+Original Word:engayed
+Output Word:engay
+End of Example--------------------------------------
+blog diary bdiary
+Original Word:blogairy
+Output Word:blary
+End of Example--------------------------------------
+slam ambulance slambulance
+Original Word:slambulance
+Output Word:slamance
+End of Example--------------------------------------
+labor neighborhood laborhood
+Original Word:laborhood
+Output Word:laborhood
+End of Example--------------------------------------
+mobile tone mone
+Original Word:mobitone
+Output Word:mobine
+End of Example--------------------------------------
+romantic comedy romedy
+Original Word:romcom
+Output Word:romedy
+End of Example--------------------------------------
+beer delicious belicious
+Original Word:beerlicious
+Output Word:beerdelicious
+End of Example--------------------------------------
+cacaphony cocoa cacocoa
+Original Word:cacaophony
+Output Word:cacapoa
+End of Example--------------------------------------
+teleprinter exchange texchange
+Original Word:telex
+Output Word:teleprange
+End of Example--------------------------------------
+chip striptease chiptease
+Original Word:chiptease
+Output Word:chiptease
+End of Example--------------------------------------
+breakfast dinner brer
+Original Word:brunner
+Output Word:brinner
+End of Example--------------------------------------
+cuddle relationship cuddlationship
+Original Word:cuddleship
+Output Word:cuddleip
+End of Example--------------------------------------
+potato tomato pomato
+Original Word:pomato
+Output Word:pomato
+End of Example--------------------------------------
+man alimony malimony
+Original Word:manlimony
+Output Word:manlimony
+End of Example--------------------------------------
+dry ice drice
+Original Word:drice
+Output Word:dryce
+End of Example--------------------------------------
+former girlfriend formerlfriend
+Original Word:forgirl
+Output Word:formiend
+End of Example--------------------------------------
+by cause bause
+Original Word:because
+Output Word:bause
+End of Example--------------------------------------
+pixel vigilante pixelante
+Original Word:pixelante
+Output Word:pilante
+End of Example--------------------------------------
+lullaby buoy lullabuoy
+Original Word:lullabuoy
+Output Word:lully
+End of Example--------------------------------------
+intoxication tax intax
+Original Word:intaxication
+Output Word:intoxicax
+End of Example--------------------------------------
+absolutely ridiculous absolus
+Original Word:absoludicrous
+Output Word:abiculous
+End of Example--------------------------------------
+decor exorcize dexorcize
+Original Word:decorcize
+Output Word:dexorcize
+End of Example--------------------------------------
+waite rose warose
+Original Word:waitrose
+Output Word:waitose
+End of Example--------------------------------------
+balanced unbalanced balalanced
+Original Word:balun
+Output Word:balancalanced
+End of Example--------------------------------------
+him insomnia himnia
+Original Word:himsomnia
+Output Word:hinsomnia
+End of Example--------------------------------------
+spill million spillion
+Original Word:spillion
+Output Word:spillion
+End of Example--------------------------------------
+butterfly flump butterflump
+Original Word:butterflump
+Output Word:butterp
+End of Example--------------------------------------
+screen snapshot screenapshot
+Original Word:screenshot
+Output Word:screenshot
+End of Example--------------------------------------
+situation comedy situatiomedy
+Original Word:sitcom
+Output Word:situmedy
+End of Example--------------------------------------
+arbor literati arborati
+Original Word:arberati
+Output Word:arbiterati
+End of Example--------------------------------------
+chav fantastic chastic
+Original Word:chavtastic
+Output Word:chavastic
+End of Example--------------------------------------
+slang linguistics slanguistics
+Original Word:slanguistics
+Output Word:slanguistics
+End of Example--------------------------------------
+man explaining maning
+Original Word:mansplaining
+Output Word:maning
+End of Example--------------------------------------
+narcissist stick narcissistick
+Original Word:narcissistick
+Output Word:narcick
+End of Example--------------------------------------
+police astronaut pastronaut
+Original Word:policenauts
+Output Word:polinaut
+End of Example--------------------------------------
+non apology nology
+Original Word:nonpology
+Output Word:nology
+End of Example--------------------------------------
+cocker poodle coodle
+Original Word:cockapoo
+Output Word:cocke
+End of Example--------------------------------------
+goal ultimate goaltimate
+Original Word:goaltimate
+Output Word:gultimate
+End of Example--------------------------------------
+birthday christmas bistmas
+Original Word:birthmas
+Output Word:bistmas
+End of Example--------------------------------------
+stalker fan stan
+Original Word:stan
+Output Word:stalkeran
+End of Example--------------------------------------
+eye violating iolating
+Original Word:eyeolating
+Output Word:eyelating
+End of Example--------------------------------------
+ipod peeper ipeeper
+Original Word:ipeeper
+Output Word:ippeeper
+End of Example--------------------------------------
+trump pumpkin trumpkin
+Original Word:trumpkin
+Output Word:trumpkin
+End of Example--------------------------------------
+ultraportable notebook ultebook
+Original Word:ultrabook
+Output Word:ultraptebook
+End of Example--------------------------------------
+blot hotch blotch
+Original Word:blotch
+Output Word:botch
+End of Example--------------------------------------
+wiki citizen witizen
+Original Word:wikizen
+Output Word:wikizen
+End of Example--------------------------------------
+cabaret renaissance cabarenaissance
+Original Word:cabarenaissance
+Output Word:cabarence
+End of Example--------------------------------------
+advertisement editorial advertorial
+Original Word:advertorial
+Output Word:advertorial
+End of Example--------------------------------------
+bluetooth tool bluetool
+Original Word:bluetool
+Output Word:bluetool
+End of Example--------------------------------------
+squirrel kitten skitten
+Original Word:squitten
+Output Word:squirren
+End of Example--------------------------------------
+digital camera digitamera
+Original Word:digicam
+Output Word:digimera
+End of Example--------------------------------------
+drink marathon drathon
+Original Word:drinkathon
+Output Word:drinkathon
+End of Example--------------------------------------
+thin inspiration thinspiration
+Original Word:thinspiration
+Output Word:thination
+End of Example--------------------------------------
+confused puzzled confuzzled
+Original Word:confuzzled
+Output Word:confled
+End of Example--------------------------------------
+mutual exclusion mutualusion
+Original Word:mutex
+Output Word:mutusion
+End of Example--------------------------------------
+volcano smog vog
+Original Word:vog
+Output Word:voog
+End of Example--------------------------------------
+bachman eyes beyes
+Original Word:bachmeyes
+Output Word:baches
+End of Example--------------------------------------
+strategy tragedy stragedy
+Original Word:stragedy
+Output Word:stragedy
+End of Example--------------------------------------
+boy conversation bonversation
+Original Word:boycon
+Output Word:boyation
+End of Example--------------------------------------
+economics metric econometric
+Original Word:econometric
+Output Word:ecmetric
+End of Example--------------------------------------
+medical care medicare
+Original Word:medicare
+Output Word:medicare
+End of Example--------------------------------------
+international network inetwork
+Original Word:internet
+Output Word:internetwork
+End of Example--------------------------------------
+fucking retard fucketard
+Original Word:fucktard
+Output Word:fuckingard
+End of Example--------------------------------------
+blazed blasted bllasted
+Original Word:blaysted
+Output Word:blalasted
+End of Example--------------------------------------
+brahman angus brahmangus
+Original Word:brangus
+Output Word:brangus
+End of Example--------------------------------------
+anticipation disappointment antment
+Original Word:anticipointment
+Output Word:antintment
+End of Example--------------------------------------
+sarcasm catastrophe sarcatastrophe
+Original Word:sarcastrophe
+Output Word:sarcaphe
+End of Example--------------------------------------
+rune landscape rundscape
+Original Word:runescape
+Output Word:runelandscape
+End of Example--------------------------------------
+capsule communicator cator
+Original Word:capcom
+Output Word:capsnicator
+End of Example--------------------------------------
+vegan evangelical vegangelical
+Original Word:vegevangelical
+Output Word:vevangelical
+End of Example--------------------------------------
+damn fantastic dantastic
+Original Word:damntastic
+Output Word:damstic
+End of Example--------------------------------------
+neighbor internet net
+Original Word:neighbornet
+Output Word:neinternet
+End of Example--------------------------------------
+croissant sandwich croissandwich
+Original Word:croissandwich
+Output Word:croidwich
+End of Example--------------------------------------
+mechanics electronics mectronics
+Original Word:mechatronics
+Output Word:mectronics
+End of Example--------------------------------------
+screw souvenir ssouvenir
+Original Word:screwvenir
+Output Word:screvenir
+End of Example--------------------------------------
+prostitute dude prostitude
+Original Word:prostadude
+Output Word:proste
+End of Example--------------------------------------
+run nasty runasty
+Original Word:runasty
+Output Word:runasty
+End of Example--------------------------------------
+agnostic optimist agnostimist
+Original Word:agnoptimist
+Output Word:agnoptimist
+End of Example--------------------------------------
+retirement fire retirre
+Original Word:refirement
+Output Word:retire
+End of Example--------------------------------------
+bonnie damon bondamon
+Original Word:bamon
+Output Word:bonnamon
+End of Example--------------------------------------
+against say againsay
+Original Word:gainsay
+Output Word:agay
+End of Example--------------------------------------
+robotic call roboticall
+Original Word:robocall
+Output Word:roboll
+End of Example--------------------------------------
+ass osmosis asis
+Original Word:assmosis
+Output Word:asmosis
+End of Example--------------------------------------
+bohemian hungarian bohemiangarian
+Original Word:bohunk
+Output Word:bongarian
+End of Example--------------------------------------
+car armageddon carmageddon
+Original Word:carmageddon
+Output Word:carmageddon
+End of Example--------------------------------------
+creepy people creepeople
+Original Word:creople
+Output Word:creeple
+End of Example--------------------------------------
+snack sacrifice snacrifice
+Original Word:snackrifice
+Output Word:snacrifice
+End of Example--------------------------------------
+flounce blunder flounder
+Original Word:flounder
+Output Word:flunder
+End of Example--------------------------------------
+bitch explosion bexplosion
+Original Word:bitchplosion
+Output Word:bitlosion
+End of Example--------------------------------------
+rag magazine ragazine
+Original Word:raggazine
+Output Word:ragazine
+End of Example--------------------------------------
+try difficult tifficult
+Original Word:trifficult
+Output Word:tryficult
+End of Example--------------------------------------
+man menstruation manstruation
+Original Word:manstration
+Output Word:manstruation
+End of Example--------------------------------------
+charity mugger charugger
+Original Word:chugger
+Output Word:chugger
+End of Example--------------------------------------
+black pakistani blackistani
+Original Word:blackistani
+Output Word:blakistani
+End of Example--------------------------------------
+tanganyika zanzibar tanzibar
+Original Word:tanzania
+Output Word:tanzibar
+End of Example--------------------------------------
+pine dinosaur pinosaur
+Original Word:pineosaur
+Output Word:pinosaur
+End of Example--------------------------------------
+jew afro jo
+Original Word:jewfro
+Output Word:jewafro
+End of Example--------------------------------------
+guitar ukulele gukulele
+Original Word:guitalele
+Output Word:guitarele
+End of Example--------------------------------------
+ipod broadcast ipodcast
+Original Word:podcast
+Output Word:ipodcast
+End of Example--------------------------------------
+blob object blobject
+Original Word:blobject
+Output Word:blobject
+End of Example--------------------------------------
+melancholy alcoholic melancholic
+Original Word:melancholic
+Output Word:melic
+End of Example--------------------------------------
+grindelwald dumbledore grindumbledore
+Original Word:grindlelore
+Output Word:grindedore
+End of Example--------------------------------------
+nuclear electronic nuclectronic
+Original Word:nucleonic
+Output Word:nuclearic
+End of Example--------------------------------------
+simultaneous broadcast simultaneoadcast
+Original Word:simulcast
+Output Word:simast
+End of Example--------------------------------------
+kinetic connection kinection
+Original Word:kinect
+Output Word:kinetion
+End of Example--------------------------------------
+napthene palmitate napalmitate
+Original Word:napalm
+Output Word:naptitate
+End of Example--------------------------------------
+faux apology fauxpology
+Original Word:fauxpology
+Output Word:faupology
+End of Example--------------------------------------
+argument minimum arguminimum
+Original Word:argmin
+Output Word:argimum
+End of Example--------------------------------------
+loop circular lar
+Original Word:loopular
+Output Word:loopar
+End of Example--------------------------------------
+brag explaining braining
+Original Word:bragplaining
+Output Word:braging
+End of Example--------------------------------------
+yell cellular yellular
+Original Word:yellular
+Output Word:yellar
+End of Example--------------------------------------
+web extrovert wextrovert
+Original Word:webtrovert
+Output Word:webtrovert
+End of Example--------------------------------------
+hillary bot hot
+Original Word:hillbot
+Output Word:hillot
+End of Example--------------------------------------
+castle asteroid casteroid
+Original Word:castleroid
+Output Word:casteroid
+End of Example--------------------------------------
+medical marijuana medijuana
+Original Word:medijuana
+Output Word:medijuana
+End of Example--------------------------------------
+britain exit britexit
+Original Word:brexit
+Output Word:brit
+End of Example--------------------------------------
+procrastination masturbation procrasturbation
+Original Word:procrasturbating
+Output Word:procration
+End of Example--------------------------------------
+satisfy suffice satisfice
+Original Word:satisfice
+Output Word:satisfice
+End of Example--------------------------------------
+instagram glam instaglam
+Original Word:instaglam
+Output Word:instagramam
+End of Example--------------------------------------
+lag faggot laggot
+Original Word:laggot
+Output Word:laggot
+End of Example--------------------------------------
+titanium plywood tiplywood
+Original Word:plytanium
+Output Word:titaniood
+End of Example--------------------------------------
+snow ice sne
+Original Word:snice
+Output Word:snice
+End of Example--------------------------------------
+biographical picture biographicture
+Original Word:biopic
+Output Word:bicture
+End of Example--------------------------------------
+frapp cappuccino frappuccino
+Original Word:frappuccino
+Output Word:frappuccino
+End of Example--------------------------------------
+return offshoring roffshoring
+Original Word:reshoring
+Output Word:returing
+End of Example--------------------------------------
+america track amerack
+Original Word:amtrak
+Output Word:americk
+End of Example--------------------------------------
+sass asshole sasshole
+Original Word:sasshole
+Output Word:sasshole
+End of Example--------------------------------------
+email address emaddress
+Original Word:edress
+Output Word:emaidress
+End of Example--------------------------------------
+lin insanity linsanity
+Original Word:linsanity
+Output Word:linity
+End of Example--------------------------------------
+rack acne racne
+Original Word:racne
+Output Word:racke
+End of Example--------------------------------------
+television photogenic televisiogenic
+Original Word:telegenic
+Output Word:televenic
+End of Example--------------------------------------
+electronic penis electronis
+Original Word:epeen
+Output Word:electronis
+End of Example--------------------------------------
+you universe yuniverse
+Original Word:youniverse
+Output Word:youniverse
+End of Example--------------------------------------
+digital evolve devolve
+Original Word:digivolve
+Output Word:digilve
+End of Example--------------------------------------
+minimum maximum minimaximum
+Original Word:minimax
+Output Word:mimaximum
+End of Example--------------------------------------
+admin nazi adminazi
+Original Word:adminazi
+Output Word:adminazi
+End of Example--------------------------------------
+hipster hypocritical hipocritical
+Original Word:hipstocratical
+Output Word:hipstical
+End of Example--------------------------------------
+gay gamer gaamer
+Original Word:gaymer
+Output Word:gaymer
+End of Example--------------------------------------
+permanent frost perost
+Original Word:permafrost
+Output Word:permanest
+End of Example--------------------------------------
+electric execute elexecute
+Original Word:electrocute
+Output Word:electricute
+End of Example--------------------------------------
+ned alexis nexis
+Original Word:nexis
+Output Word:nedexis
+End of Example--------------------------------------
+biology electronic biolectronic
+Original Word:bionic
+Output Word:bionic
+End of Example--------------------------------------
+telephone marketing teleting
+Original Word:telemarketing
+Output Word:telerketing
+End of Example--------------------------------------
+fang gore fore
+Original Word:fangore
+Output Word:fangore
+End of Example--------------------------------------
+croissant donut croissanut
+Original Word:cronut
+Output Word:croinut
+End of Example--------------------------------------
+boxing records bords
+Original Word:boxrec
+Output Word:boxicords
+End of Example--------------------------------------
+proteins genome protenome
+Original Word:proteome
+Output Word:prenome
+End of Example--------------------------------------
+multitude dude multitudude
+Original Word:multidude
+Output Word:multitdude
+End of Example--------------------------------------
+fear erection ferection
+Original Word:fearection
+Output Word:fearection
+End of Example--------------------------------------
+jew threesome jesome
+Original Word:jewsome
+Output Word:jewome
+End of Example--------------------------------------
+fur explode fexplode
+Original Word:fursplode
+Output Word:furplode
+End of Example--------------------------------------
+amazing awesome ame
+Original Word:amazome
+Output Word:amazesome
+End of Example--------------------------------------
+canadian woodlands cands
+Original Word:canwood
+Output Word:canadioodlands
+End of Example--------------------------------------
+mexico california mexicalifornia
+Original Word:mexifornia
+Output Word:mexifornia
+End of Example--------------------------------------
+agreement threesome agreesome
+Original Word:agreesome
+Output Word:agreeme
+End of Example--------------------------------------
+foreplay ploy foreploy
+Original Word:foreploy
+Output Word:foploy
+End of Example--------------------------------------
+malapropism portmanteau manteau
+Original Word:malamanteau
+Output Word:malanteau
+End of Example--------------------------------------
+chump championship chumpionship
+Original Word:chumpionship
+Output Word:chumpionship
+End of Example--------------------------------------
+fiction commercial ficommercial
+Original Word:fictomercial
+Output Word:fictercial
+End of Example--------------------------------------
+slack academic slacademic
+Original Word:slackademic
+Output Word:slackademic
+End of Example--------------------------------------
+aerosol soul aerosoul
+Original Word:aerosoul
+Output Word:aeroul
+End of Example--------------------------------------
+pekingese poodle podle
+Original Word:pekeapoo
+Output Word:pekingle
+End of Example--------------------------------------
+executive babble ebabble
+Original Word:execubabble
+Output Word:execble
+End of Example--------------------------------------
+croissant doughnut croissanut
+Original Word:cronut
+Output Word:croisnut
+End of Example--------------------------------------
+congratulations drag congrag
+Original Word:condragulations
+Output Word:congrag
+End of Example--------------------------------------
+google alzheimer googlzheimer
+Original Word:googleheimer
+Output Word:googleimer
+End of Example--------------------------------------
+corporation complaining corporaining
+Original Word:corplaining
+Output Word:corplaining
+End of Example--------------------------------------
+cyber librarian cybrarian
+Original Word:cybrarian
+Output Word:cybrarian
+End of Example--------------------------------------
+jew lutheran jeran
+Original Word:jewtheran
+Output Word:jeweran
+End of Example--------------------------------------
+interior landscape indscape
+Original Word:inscape
+Output Word:interiape
+End of Example--------------------------------------
+kroger yogurt krogurt
+Original Word:krogert
+Output Word:krogurt
+End of Example--------------------------------------
+negative attitude negatitude
+Original Word:negatude
+Output Word:negattitude
+End of Example--------------------------------------
+automatic tune automatune
+Original Word:autotune
+Output Word:automane
+End of Example--------------------------------------
+anger aneurysm angerysm
+Original Word:angeurysm
+Output Word:angeurysm
+End of Example--------------------------------------
+academic trampoline academpoline
+Original Word:acatramp
+Output Word:academoline
+End of Example--------------------------------------
+dawn moment dawnt
+Original Word:dohment
+Output Word:dawoment
+End of Example--------------------------------------
+dormitory automobile dormitomobile
+Original Word:dormobile
+Output Word:dormile
+End of Example--------------------------------------
+ridiculous donkey ridonkey
+Original Word:ridonkulous
+Output Word:ridey
+End of Example--------------------------------------
+situational comedy situatiomedy
+Original Word:sitcom
+Output Word:situmedy
+End of Example--------------------------------------
+month anniversary manniversary
+Original Word:monthiversary
+Output Word:montary
+End of Example--------------------------------------
+frappe cappucino frappucino
+Original Word:frappucino
+Output Word:frappucino
+End of Example--------------------------------------
+tea coffee tee
+Original Word:teaffee
+Output Word:teaffee
+End of Example--------------------------------------
+republican democrat republicrat
+Original Word:republicrat
+Output Word:repocrat
+End of Example--------------------------------------
+cunt explaining cexplaining
+Original Word:cuntplaining
+Output Word:cuntlaining
+End of Example--------------------------------------
+diabetes obesity diabesity
+Original Word:diabesity
+Output Word:diabesity
+End of Example--------------------------------------
+tired angry tiry
+Original Word:tangry
+Output Word:tirngry
+End of Example--------------------------------------
+arpa network arpark
+Original Word:arpanet
+Output Word:arpetwork
+End of Example--------------------------------------
+request question requestion
+Original Word:requestion
+Output Word:requestion
+End of Example--------------------------------------
+class auditorium clauditorium
+Original Word:classitorium
+Output Word:clasditorium
+End of Example--------------------------------------
+pod pedestrian podestrian
+Original Word:podestrian
+Output Word:podestrian
+End of Example--------------------------------------
+frozen yogurt frogurt
+Original Word:frogurt
+Output Word:frogurt
+End of Example--------------------------------------
+jizz disney jisney
+Original Word:jizzney
+Output Word:jisney
+End of Example--------------------------------------

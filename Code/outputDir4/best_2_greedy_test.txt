@@ -1,0 +1,120 @@
+Original Word:folksonomy
+Output Word:foxy
+End of Example--------------------------------------
+Original Word:hinglish
+Output Word:hinglish
+End of Example--------------------------------------
+Original Word:cassingle
+Output Word:cassing
+End of Example--------------------------------------
+Original Word:fanon
+Output Word:fanon
+End of Example--------------------------------------
+Original Word:fergelicious
+Output Word:ferge
+End of Example--------------------------------------
+Original Word:jazzercise
+Output Word:jaxcise
+End of Example--------------------------------------
+Original Word:skevanston
+Output Word:skokston
+End of Example--------------------------------------
+Original Word:calexico
+Output Word:califoxic
+End of Example--------------------------------------
+Original Word:crisitunity
+Output Word:cropport
+End of Example--------------------------------------
+Original Word:ringxiety
+Output Word:ringy
+End of Example--------------------------------------
+Original Word:ineptitude
+Output Word:ineptitude
+End of Example--------------------------------------
+Original Word:celesbian
+Output Word:ceblia
+End of Example--------------------------------------
+Original Word:glenbard
+Output Word:glom
+End of Example--------------------------------------
+Original Word:gerrymander
+Output Word:gerd
+End of Example--------------------------------------
+Original Word:limon
+Output Word:limo
+End of Example--------------------------------------
+Original Word:motel
+Output Word:motel
+End of Example--------------------------------------
+Original Word:bit
+Output Word:bingig
+End of Example--------------------------------------
+Original Word:kripkenstein
+Output Word:krittein
+End of Example--------------------------------------
+Original Word:beerage
+Output Word:beera
+End of Example--------------------------------------
+Original Word:tehrangeles
+Output Word:tehros
+End of Example--------------------------------------
+Original Word:tomacco
+Output Word:tobaco
+End of Example--------------------------------------
+Original Word:automobilia
+Output Word:autobila
+End of Example--------------------------------------
+Original Word:automagical
+Output Word:autogal
+End of Example--------------------------------------
+Original Word:merkozy
+Output Word:merkozy
+End of Example--------------------------------------
+Original Word:murderotica
+Output Word:murota
+End of Example--------------------------------------
+Original Word:wario
+Output Word:waruri
+End of Example--------------------------------------
+Original Word:mimbo
+Output Word:mal
+End of Example--------------------------------------
+Original Word:wikiality
+Output Word:wikity
+End of Example--------------------------------------
+Original Word:blackanese
+Output Word:blapanee
+End of Example--------------------------------------
+Original Word:employagility
+Output Word:emplity
+End of Example--------------------------------------
+Original Word:guitard
+Output Word:guitard
+End of Example--------------------------------------
+Original Word:tanglish
+Output Word:tamigh
+End of Example--------------------------------------
+Original Word:tigon
+Output Word:tiglio
+End of Example--------------------------------------
+Original Word:taxachusetts
+Output Word:taxchussts
+End of Example--------------------------------------
+Original Word:dramedy
+Output Word:dromy
+End of Example--------------------------------------
+Original Word:insinnuendo
+Output Word:innuend
+End of Example--------------------------------------
+Original Word:skyjack
+Output Word:skijack
+End of Example--------------------------------------
+Original Word:freakonomics
+Output Word:fromics
+End of Example--------------------------------------
+Original Word:moped
+Output Word:motal
+End of Example--------------------------------------
+Original Word:irregardless
+Output Word:irrecs
+End of Example--------------------------------------

@@ -1,0 +1,120 @@
+Original Word:carboloy
+Output Word:calloy
+End of Example--------------------------------------
+Original Word:cosplay
+Output Word:costumay
+End of Example--------------------------------------
+Original Word:disturbia
+Output Word:disturrria
+End of Example--------------------------------------
+Original Word:rogernomics
+Output Word:rogeromics
+End of Example--------------------------------------
+Original Word:vitamin
+Output Word:vine
+End of Example--------------------------------------
+Original Word:cyborg
+Output Word:cycergan
+End of Example--------------------------------------
+Original Word:ebonics
+Output Word:ebonic
+End of Example--------------------------------------
+Original Word:jython
+Output Word:javyth
+End of Example--------------------------------------
+Original Word:transceiver
+Output Word:transeiver
+End of Example--------------------------------------
+Original Word:plarn
+Output Word:plastich
+End of Example--------------------------------------
+Original Word:brangus
+Output Word:brangus
+End of Example--------------------------------------
+Original Word:tanorexia
+Output Word:tanoxia
+End of Example--------------------------------------
+Original Word:spife
+Output Word:sporn
+End of Example--------------------------------------
+Original Word:satisfice
+Output Word:sactory
+End of Example--------------------------------------
+Original Word:fratire
+Output Word:frateriter
+End of Example--------------------------------------
+Original Word:stalkerazzi
+Output Word:stalkerazi
+End of Example--------------------------------------
+Original Word:twincest
+Output Word:twincest
+End of Example--------------------------------------
+Original Word:famiclone
+Output Word:famane
+End of Example--------------------------------------
+Original Word:liger
+Output Word:lige
+End of Example--------------------------------------
+Original Word:cramerica
+Output Word:crerica
+End of Example--------------------------------------
+Original Word:brouter
+Output Word:brouter
+End of Example--------------------------------------
+Original Word:imagineering
+Output Word:imagering
+End of Example--------------------------------------
+Original Word:wonkavator
+Output Word:wonkor
+End of Example--------------------------------------
+Original Word:cinedigm
+Output Word:cinemadig
+End of Example--------------------------------------
+Original Word:netiquette
+Output Word:netiauett
+End of Example--------------------------------------
+Original Word:boxercise
+Output Word:boxercise
+End of Example--------------------------------------
+Original Word:labradoodle
+Output Word:labroodl
+End of Example--------------------------------------
+Original Word:frusion
+Output Word:fruut
+End of Example--------------------------------------
+Original Word:chiwaukee
+Output Word:chilauke
+End of Example--------------------------------------
+Original Word:disgussion
+Output Word:disgussion
+End of Example--------------------------------------
+Original Word:religulous
+Output Word:relitulous
+End of Example--------------------------------------
+Original Word:clink
+Output Word:clink
+End of Example--------------------------------------
+Original Word:garriage
+Output Word:gayrriage
+End of Example--------------------------------------
+Original Word:jorts
+Output Word:jeants
+End of Example--------------------------------------
+Original Word:pleather
+Output Word:plasthr
+End of Example--------------------------------------
+Original Word:sony
+Output Word:sonusy
+End of Example--------------------------------------
+Original Word:brostache
+Output Word:brostache
+End of Example--------------------------------------
+Original Word:fruitopia
+Output Word:fruitopi
+End of Example--------------------------------------
+Original Word:feminazi
+Output Word:femazi
+End of Example--------------------------------------
+Original Word:treap
+Output Word:treep
+End of Example--------------------------------------

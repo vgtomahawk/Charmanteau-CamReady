@@ -1,0 +1,120 @@
+Original Word:squiggle
+Output Word:squiggle
+End of Example--------------------------------------
+Original Word:yogalates
+Output Word:yogates
+End of Example--------------------------------------
+Original Word:blorph
+Output Word:blorph
+End of Example--------------------------------------
+Original Word:bionicle
+Output Word:bionicle
+End of Example--------------------------------------
+Original Word:meowse
+Output Word:moose
+End of Example--------------------------------------
+Original Word:accenture
+Output Word:accenture
+End of Example--------------------------------------
+Original Word:animutation
+Output Word:animotion
+End of Example--------------------------------------
+Original Word:frenemy
+Output Word:frienemy
+End of Example--------------------------------------
+Original Word:konglish
+Output Word:korglish
+End of Example--------------------------------------
+Original Word:bayonetwork
+Output Word:bayk
+End of Example--------------------------------------
+Original Word:marchitecture
+Output Word:marketure
+End of Example--------------------------------------
+Original Word:advertainment
+Output Word:adertainmen
+End of Example--------------------------------------
+Original Word:clintwood
+Output Word:clintood
+End of Example--------------------------------------
+Original Word:wigger
+Output Word:wigger
+End of Example--------------------------------------
+Original Word:wholphin
+Output Word:walphin
+End of Example--------------------------------------
+Original Word:kentuckiana
+Output Word:kentina
+End of Example--------------------------------------
+Original Word:interrobang
+Output Word:interrag
+End of Example--------------------------------------
+Original Word:austerical
+Output Word:austerical
+End of Example--------------------------------------
+Original Word:skort
+Output Word:skirtor
+End of Example--------------------------------------
+Original Word:michiana
+Output Word:mindian
+End of Example--------------------------------------
+Original Word:affluenza
+Output Word:affluen
+End of Example--------------------------------------
+Original Word:pallywood
+Output Word:pallywood
+End of Example--------------------------------------
+Original Word:grasscycle
+Output Word:grasscy
+End of Example--------------------------------------
+Original Word:jeggings
+Output Word:jeggings
+End of Example--------------------------------------
+Original Word:nintendonitis
+Output Word:nintend
+End of Example--------------------------------------
+Original Word:clamato
+Output Word:clamat
+End of Example--------------------------------------
+Original Word:smog
+Output Word:smok
+End of Example--------------------------------------
+Original Word:murse
+Output Word:mans
+End of Example--------------------------------------
+Original Word:hotlanta
+Output Word:hotlan
+End of Example--------------------------------------
+Original Word:ruthanasia
+Output Word:reuthanasi
+End of Example--------------------------------------
+Original Word:manscaping
+Output Word:mandscapin
+End of Example--------------------------------------
+Original Word:vlog
+Output Word:vidlog
+End of Example--------------------------------------
+Original Word:netocracy
+Output Word:netracy
+End of Example--------------------------------------
+Original Word:vietnamasian
+Output Word:vietian
+End of Example--------------------------------------
+Original Word:sexting
+Output Word:sexting
+End of Example--------------------------------------
+Original Word:bodacious
+Output Word:bolacious
+End of Example--------------------------------------
+Original Word:wallaroo
+Output Word:walgaro
+End of Example--------------------------------------
+Original Word:netizen
+Output Word:nettizen
+End of Example--------------------------------------
+Original Word:shockumentary
+Output Word:shockumen
+End of Example--------------------------------------
+Original Word:advertorial
+Output Word:aderitorial
+End of Example--------------------------------------

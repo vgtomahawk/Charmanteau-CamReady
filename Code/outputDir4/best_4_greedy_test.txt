@@ -1,0 +1,120 @@
+Original Word:fertigate
+Output Word:fertige
+End of Example--------------------------------------
+Original Word:brunch
+Output Word:breakch
+End of Example--------------------------------------
+Original Word:craptacular
+Output Word:crapular
+End of Example--------------------------------------
+Original Word:brainiac
+Output Word:braniac
+End of Example--------------------------------------
+Original Word:deliquid
+Output Word:deliqui
+End of Example--------------------------------------
+Original Word:vermonster
+Output Word:vermonster
+End of Example--------------------------------------
+Original Word:sacrilicious
+Output Word:sacrious
+End of Example--------------------------------------
+Original Word:meld
+Output Word:mel
+End of Example--------------------------------------
+Original Word:hipsturbia
+Output Word:hipsterbi
+End of Example--------------------------------------
+Original Word:mockney
+Output Word:mockey
+End of Example--------------------------------------
+Original Word:bollywood
+Output Word:bombywood
+End of Example--------------------------------------
+Original Word:yinglish
+Output Word:yyglish
+End of Example--------------------------------------
+Original Word:mocktail
+Output Word:mockail
+End of Example--------------------------------------
+Original Word:sheeple
+Output Word:sheeple
+End of Example--------------------------------------
+Original Word:linux
+Output Word:lix
+End of Example--------------------------------------
+Original Word:thermistor
+Output Word:thermaltor
+End of Example--------------------------------------
+Original Word:philantrophy
+Output Word:philaphy
+End of Example--------------------------------------
+Original Word:swapportunity
+Output Word:swapity
+End of Example--------------------------------------
+Original Word:spork
+Output Word:spork
+End of Example--------------------------------------
+Original Word:sexpert
+Output Word:sexper
+End of Example--------------------------------------
+Original Word:webinar
+Output Word:webin
+End of Example--------------------------------------
+Original Word:flong
+Output Word:flong
+End of Example--------------------------------------
+Original Word:nuyorican
+Output Word:newrican
+End of Example--------------------------------------
+Original Word:faction
+Output Word:faction
+End of Example--------------------------------------
+Original Word:chokebreaker
+Output Word:chokecker
+End of Example--------------------------------------
+Original Word:digipeater
+Output Word:digiter
+End of Example--------------------------------------
+Original Word:keytar
+Output Word:keyboit
+End of Example--------------------------------------
+Original Word:rockumentary
+Output Word:rockumentary
+End of Example--------------------------------------
+Original Word:snatiation
+Output Word:sneezation
+End of Example--------------------------------------
+Original Word:multiplex
+Output Word:multlex
+End of Example--------------------------------------
+Original Word:mobload
+Output Word:mobilod
+End of Example--------------------------------------
+Original Word:hairigami
+Output Word:haitomi
+End of Example--------------------------------------
+Original Word:infomercial
+Output Word:inforcial
+End of Example--------------------------------------
+Original Word:anacronym
+Output Word:anacrony
+End of Example--------------------------------------
+Original Word:machinema
+Output Word:machinem
+End of Example--------------------------------------
+Original Word:satisfries
+Output Word:satisfries
+End of Example--------------------------------------
+Original Word:edexcel
+Output Word:edexcal
+End of Example--------------------------------------
+Original Word:herstory
+Output Word:hergory
+End of Example--------------------------------------
+Original Word:portanol
+Output Word:portuguel
+End of Example--------------------------------------
+Original Word:hasbian
+Output Word:hanbia
+End of Example--------------------------------------
