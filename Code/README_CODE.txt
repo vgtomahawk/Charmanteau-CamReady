@@ -1,10 +1,10 @@
 Prerequisites:
 The following libraries are prerequisites for running our code
-- dynet (open source python NN framework with cpp backend) Link: http://dynet.readthedocs.io/en/latest/python.html
+- dynet version 2.0 (open source python NN framework with cpp backend) Link: http://dynet.readthedocs.io/en/latest/python.html
 - scipy
 - nltk
 - editdistance (Cython-implemented library, to compute Levenshtein edit distance, can be installed on pip)
-
+- tensorflow version 0.12 
 
 Instructions To Run the Code:
 The main() function of our code is located in Code/barebones_enc_dec.py. The code can be run in various modes. We shall explain each of these modes here. The modes perform different experiments such as Cross-Validation, testing on D_BLIND etc. The code can be run as (starting from the root of the zip file):
@@ -20,7 +20,7 @@ Modes:
 
 
 Parameters:
-Though the code works with the parameter values set in the code, in order to switch between Forward and Backward architechtures etc, it is necessary to change some parameters in the code.
+Though the code works with the parameter values set in the code, in order to switch between Forward and Backward architectures etc, it is necessary to change some parameters in the code.
 
 preTrain     - Pretrains the encoder of encoder-decoder models, set to False by default, suggested value for good performance
 downstream   - Whether to use the downstream vector in the next character prediction softmax of the decoder, set to True by default, suggested value for good performance.
