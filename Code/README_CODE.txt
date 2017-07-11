@@ -1,10 +1,11 @@
 Prerequisites:
-The following libraries are prerequisites for running our code
+The following libraries & requirements are prerequisites for running our code
 - dynet version 2.0 (open source python NN framework with cpp backend) Link: http://dynet.readthedocs.io/en/latest/python.html
 - scipy
 - nltk
 - editdistance (Cython-implemented library, to compute Levenshtein edit distance, can be installed on pip)
 - tensorflow version 0.12 
+- Atleast 7GB of RAM available (for dynet)
 
 Instructions To Run the Code:
 The main() function of our code is located in Code/barebones_enc_dec.py. The code can be run in various modes. We shall explain each of these modes here. The modes perform different experiments such as Cross-Validation, testing on D_BLIND etc. The code can be run as (starting from the root of the zip file):
@@ -17,6 +18,16 @@ Modes:
 - "HOLDOUTTEST": Trains the model on D_WIKI and evaluates on D_BLIND (Held-out set, 1223 examples). 
 
    Output: Outputs the performance of both of our model and the BASELINE (Deri and Knight et al, 2015) on D_BLIND
+
+Instructions To Query the Model for Arbitrary Words:
+To query the trained model multiple times, follow the following steps.
+- First train it in "HOLDOUTTEST". This will save the trained model(s) (ensemble) in Buffer/ directory.
+- Refer to query.py for an idea of how to query the model (alternatively, view the following code snippet)
+	import barebones_enc_dec as bed
+	predictor=bed.getModel()
+	answers=bed.query("<word1>","<word2>",predictor) #word1 and word2 are all-character, lowercase strings (no whitespaces, numbers, special characters)
+  answers is the top-5 list of answers.
+  Note that once the model is loaded, it can be queried multiple times.
 
 
 Parameters:
