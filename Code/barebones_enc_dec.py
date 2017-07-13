@@ -1,7 +1,12 @@
 import sys
 import math
 import random
-import dynet as dy
+#import dynet as dy
+import _dynet as dy
+dyparams=dy.DynetParams()
+dyparams.set_mem(7000)
+dyparams.set_random_seed(786786)
+dyparams.init()
 import readData
 from collections import defaultdict
 import argparse
@@ -686,6 +691,7 @@ class Model:
                     candidate=candidateLoss[0]
                     loss=candidateLoss[1]
                     textCandidate=''.join([self.reverse_wids[c] for c in candidate[:-1]])
+                    #print textCandidate
                     lmLoss=-self.lm_model.getSequenceScore(textCandidate)
                     lengthLoss=-math.log(self.probL.pdf(len(candidate)/len(sentence_de)))+math.log(Z_L)
                     newLoss=(candidate,loss+lmLoss+lengthLoss)
@@ -719,17 +725,21 @@ class Model:
                 else:
                     candidateWord=candidateLosses[0][0]
                     #candidateValue=candidateLoss[1]+math.log(Z)
-                    part1=sentence_de[:sentence_de.index(self.hyperParams.SEPARATOR)]
-                    part2=sentence_de[sentence_de.index(self.hyperParams.SEPARATOR)+1:-1]
-                    part1=[self.reverse_wids[c] for c in part1]
-                    part2=[self.reverse_wids[c] for c in part2]
-                    part1=''.join(part1)
-                    part2=''.join(part2)
-                    outFile.write(part1+" "+part2+" "+self.blindCache[(part1,part2)]+"\n") 
+                    
+                    #part1=sentence_de[:sentence_de.index(self.hyperParams.SEPARATOR)]
+                    #part2=sentence_de[sentence_de.index(self.hyperParams.SEPARATOR)+1:-1]
+                    #part1=[self.reverse_wids[c] for c in part1]
+                    #part2=[self.reverse_wids[c] for c in part2]
+                    #part1=''.join(part1)
+                    #part2=''.join(part2)
+                    
+                    #outFile.write(part1+" "+part2+" "+self.blindCache[(part1,part2)]+"\n") 
             #print [self.reverse_wids[c] for c in candidateLosses[0][0]]
             #exit()
             if mode==None:
                 return candidateLosses[0][1],candidateLosses[0][0]
+            elif mode=="candidateList":
+                return candidateLosses[:5]
             else:
                 featureDict={}
                 for candidateLoss in candidateLosses:
@@ -1353,7 +1363,7 @@ class Model:
 
         return exactMatches,(editDistance+0.0)/(totalWords+0.0)
 
-def query(queryWord1,queryWord2):
+def getModel():
     random.seed(491)
     READ_OPTION="KNIGHTCROSSVALIDATE"
     preTrain=False
@@ -1412,9 +1422,11 @@ def query(queryWord1,queryWord2):
 
         predictor=ensemble[0]
         predictor.ensembleList=ensemble
-        predictor.readBlindData()
+        #predictor.readBlindData()
 
+    return predictor
 
+def query(queryWord1,queryWord2,predictor):
     #queryWord1="bad"           
     #queryWord2="advice"
     queryWord1=[c for c in queryWord1]
@@ -1422,11 +1434,14 @@ def query(queryWord1,queryWord2):
     queryWord=queryWord1+["SEPARATOR",]+queryWord2+["STOP",]
     print queryWord
     queryWord=[predictor.wids[c] for c in queryWord]
-    print queryWord
+    #print queryWord
 
-    loss,answer=predictor.genDecode(queryWord,outFile=open("blah.txt","w"),CANDIDATE_WRITE=False)
-    answer=[predictor.reverse_wids[c] for c in answer][:-1]
-    return "".join(answer)
+    #answers=predictor.genDecode(queryWord,outFile=open("blah.txt","w"),mode="candidateList",CANDIDATE_WRITE=False)
+    answers=predictor.genDecode(queryWord,outFile=None,mode="candidateList",CANDIDATE_WRITE=False)
+
+    answers=[x[0] for x in answers]
+    answers=[[predictor.reverse_wids[c] for c in answer][:-1] for answer in answers]
+    return ["".join(answer) for answer in answers]
 
 
 if __name__=="__main__":
@@ -1498,7 +1513,7 @@ if __name__=="__main__":
         ENSEMBLE_METHOD="SOFT"
         RANDOM_SHUFFLE=True
         ENSEMBLE_SIZE=30
-        QUERY=True
+        QUERY=False
 
         if not ENSEMBLE:
             foldId=8
