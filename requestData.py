@@ -4,6 +4,8 @@ from bs4 import BeautifulSoup
 import re
 import time
 
+#Script to query the trained model (demo) of (Deri and Knight, 2015)
+
 inFile=open("Data/dataset.csv")
 outFile=open("Data/dataAliyaScraped.csv","w")
 
