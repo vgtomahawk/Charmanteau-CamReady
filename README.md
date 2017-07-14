@@ -15,15 +15,18 @@ BibTex:
 }
  
 
-Code/ contains most of the code.
-Data/ contains the dataset.
+Code/ contains most of the code. Data/ contains the dataset.
 
-To understand the Code, refer to Code/README_CODE.txt
-To understand the Data, refer to Data/README.txt
+To understand the Code, refer to Code/README_CODE.txt.
+
+To understand the Data, refer to Data/README.txt.
 
 You can also query our trained model on our online demo page: http://tinyurl.com/y9x6mvy
 
 If you use our Code, please consider citing our work (https://arxiv.org/abs/1707.01176) 
+
 If you use our dataset, please consider citing:- 
+	
 	1. Our work (https://arxiv.org/abs/1707.01176) 
+
 	2. The earlier work on portmanteaus by (Deri and Knight, 2015) (http://www.aclweb.org/anthology/N/N15/N15-1021.pdf)
