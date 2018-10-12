@@ -937,17 +937,17 @@ class Model:
     def save_model(self):
         print "Saving Model"
         if self.config.trainMethod=="KEEPDELETE":
-            self.model.save(self.modelFile,[self.encoder,self.revcoder,self.decoder,self.encoder_params["lookup"],self.decoder_params["lookup"],self.decoder_params["action_lookup"],self.decoder_params["R"],self.decoder_params["bias"]])
+            dy.save(self.modelFile,[self.encoder,self.revcoder,self.decoder,self.encoder_params["lookup"],self.decoder_params["lookup"],self.decoder_params["action_lookup"],self.decoder_params["R"],self.decoder_params["bias"]])
         else:
-            self.model.save(self.modelFile,[self.encoder,self.revcoder,self.decoder,self.encoder_params["lookup"],self.decoder_params["lookup"],self.decoder_params["R"],self.decoder_params["bias"]])
+            dy.save(self.modelFile,[self.encoder,self.revcoder,self.decoder,self.encoder_params["lookup"],self.decoder_params["lookup"],self.decoder_params["R"],self.decoder_params["bias"]])
         print "Model Saved"
 
     def load_model(self):
         print "Loading Model"
         if self.config.trainMethod=="KEEPDELETE":
-            (self.encoder,self.revcoder,self.decoder,self.encoder_params["lookup"],self.decoder_params["lookup"],self.decoder_params["action_lookup"],self.decoder_params["R"],self.decoder_params["bias"])=self.model.load(self.modelFile)
+            (self.encoder,self.revcoder,self.decoder,self.encoder_params["lookup"],self.decoder_params["lookup"],self.decoder_params["action_lookup"],self.decoder_params["R"],self.decoder_params["bias"])=dy.load(self.modelFile,self.model)
         else:
-            (self.encoder,self.revcoder,self.decoder,self.encoder_params["lookup"],self.decoder_params["lookup"],self.decoder_params["R"],self.decoder_params["bias"])=self.model.load(self.modelFile)
+            (self.encoder,self.revcoder,self.decoder,self.encoder_params["lookup"],self.decoder_params["lookup"],self.decoder_params["R"],self.decoder_params["bias"])=dy.load(self.modelFile,self.model)
         print "Model Loaded"
 
     def __init__(self,config,hyperParams,modelFile="Buffer/model"):
@@ -1008,7 +1008,7 @@ class Model:
 
 
         #Specify model
-        self.model=dy.Model()
+        self.model=dy.ParameterCollection() #dy.Model()
 
         config=self.config
         hyperParams=self.hyperParams
